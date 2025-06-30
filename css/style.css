@@ -94,9 +94,6 @@ p {
   line-height: 30px;
 }
 
-.navbar-toggle .icon-bar {
-  background: rgb(230, 98, 11);
-}
 
 input[type=email], input[type=password], input[type=text], input[type=tel] {
   box-shadow: none;
@@ -425,7 +422,8 @@ a:focus {
   font-weight: 500;
   color: #fff;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 13px;
+  padding: 8px 12px; /* Adjust spacing */
   letter-spacing: 0.5px;
   transition: all 0.25s ease;
 }
@@ -443,37 +441,8 @@ a:focus {
   }
 }
 
-.header-top {
-  background: rgb(34, 35, 40);
-  color: #919194;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-}
-.header-top .header-top-socials {
-  border-right: 1px solid rgba(255, 255, 255, 0.05);
-  padding: 12px 0px;
-}
-.header-top .header-top-socials {
-  margin-left: -8px;
-}
-.header-top .header-top-socials a {
-  color: #919194;
-  margin-right: 8px;
-  font-size: 16px;
-  padding: 0 8px;
-}
-.header-top .header-top-socials a:hover {
-  color: rgb(230, 98, 11);
-}
-.header-top .header-top-info {
-  color: #919194;
-  font-size: 16px;
-}
-.header-top .header-top-info a span {
-  color: #fff;
-}
-.header-top .header-top-info a {
-  margin-left: 35px;
-  color: #919194;
+.navbar-toggle .icon-bar {
+  background: rgb(230, 98, 11);
 }
 
 .navbar-toggler {
@@ -493,6 +462,49 @@ a:focus {
 .navbar-brand span {
   color: rgb(230, 98, 11);
 }
+
+
+
+
+.header-top {
+  background: rgb(34, 35, 40);
+  color: #919194;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 5px 0; /* Reduced padding */
+}
+
+.header-top .header-top-socials {
+  border-right: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 3px 0; /* Reduced padding */
+  margin-left: -8px;
+}
+
+.header-top .header-top-socials a {
+  color: #919194;
+  margin-right: 8px;
+  font-size: 16px;
+  padding: 3px 0;
+}
+
+.header-top .header-top-socials a:hover {
+  color: rgb(230, 98, 11);
+}
+
+.header-top .header-top-info {
+  color: #919194;
+  font-size: 14px;
+}
+
+.header-top .header-top-info a span {
+  color: #fff;
+}
+
+.header-top .header-top-info a {
+  margin-left: 25px;
+  color: #919194;
+}
+
+
 
 .dropdown-menu {
   padding: 0px;
