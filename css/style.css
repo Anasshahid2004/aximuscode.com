@@ -25,6 +25,44 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   color: #242424;
 }
 
+.faq-section .card {
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+}
+
+.faq-section .card-header {
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
+
+.faq-section .btn-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  width: 100%;
+  text-align: left;
+}
+
+.faq-section .btn-link:hover {
+  text-decoration: none;
+}
+
+.faq-section .card-body {
+  background-color: #fff;
+}
+
+.faq-section i {
+  transition: transform 0.3s ease;
+}
+
+.faq-section .collapsed i {
+  transform: rotate(0deg);
+}
+
+.faq-section .btn-link[aria-expanded="true"] i {
+  transform: rotate(180deg);
+}
+
 h1, .h1 {
   font-size: 2.5rem;
 }
