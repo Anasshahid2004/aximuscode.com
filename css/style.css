@@ -1346,6 +1346,11 @@ h3.quote::before {
   transition: 0.3s;
   display: none;
 }
+
+/* .crmportal{
+  margin-left: -12px !important;
+} */
+
 @media (max-width: 480px) {
   .scroll-to-top {
     bottom: 15px;
