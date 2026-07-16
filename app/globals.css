@@ -1,0 +1,99 @@
+:root {
+  --nm-font-1: var(--font-space-grotesk), sans-serif;
+  --nm-font-2: var(--font-inter), sans-serif;
+}
+
+/* Bootstrap normally supplies `.dropdown { position: relative; }` so an
+   absolutely-positioned `.dropdown-menu` (left:0; top:100% - see
+   nimo-core.css) anchors under that specific nav item. That rule wasn't
+   part of the small bootstrap.css subset we copied in, so the menu fell
+   back to the nearest positioned ancestor - the fixed-position header
+   itself - landing at left:0 of the whole header bar (next to "Home")
+   regardless of which item was actually hovered. */
+.nm-main-navigation .navbar-nav li.dropdown {
+  position: relative;
+}
+
+/*
+ * A handful of decorative mask/background images referenced by nimo-core.css
+ * (choose/cta/hero/steps/testimonial mask shapes) aren't bundled in the
+ * theme package - they 404. A failed `mask-image` hides its element
+ * entirely in Chrome (unlike a failed `background-image`, which just shows
+ * nothing), so neutralize the masks we know are truly missing rather than
+ * lose the content behind them.
+ */
+
+/* `p1-mask-shape` *is* actually bundled (the extraction script downloaded
+   it, just as p1-mask-shape.webp under /images/ rather than the
+   /img/partner/p1-mask-shape.png path nimo-core.css references) - point
+   both of its consumers at the real file instead of neutralizing, so the
+   intended edge-fade mask (marquee text/logos fading out at the strip
+   edges) actually renders instead of silently hiding the masked content. */
+.nm-partner-1-logo-mask,
+.nm-price-2-marquee-wrap {
+  mask-image: url("/images/p1-mask-shape.webp");
+  -webkit-mask-image: url("/images/p1-mask-shape.webp");
+}
+
+/* ThinScrollbar: hide the native scrollbar on its scrollable container,
+   the visible thin track/dragger is rendered separately. */
+.mCSB_container::-webkit-scrollbar {
+  display: none;
+}
+
+/* wow.js reveal: elements combine `.wow` with a self-contained @keyframes
+   class (slideRightUp2, fadeInUp2, etc. - see nimo-core.css). The keyframe
+   animation plays the instant the class is on the element, so without
+   wow.js's own trick of starting it hidden and only flipping it visible
+   once scrolled into view (see ScrollReveal.tsx), it would just play once
+   on mount instead of when the section actually scrolls into view. */
+.wow {
+  visibility: hidden;
+  /* The real theme pairs `.wow` with animate.css's `.animated` class
+     (animation-fill-mode: both - see animate-min.css), which wow.js adds
+     itself. Without it, none of the entrance keyframes (fadeInUp2,
+     slideInUp2, fadeInRight2, etc.) declare a fill-mode, so during the
+     staggered `animation-delay` window the element renders its base,
+     fully-settled CSS instead of holding the keyframe's 0% state - it
+     flashes fully visible, then SNAPS to the 0% state the instant the
+     delay elapses and the animation actually starts, before animating
+     smoothly back in. Net effect: appear, disappear, reappear. */
+  animation-fill-mode: both;
+}
+
+/* nimo-core.css's .slideRightUp2 references --tn-cube-1, which is never
+   defined anywhere in the theme (only --nm-cube-1 exists) - a typo in the
+   vendor CSS itself. That makes the animation silently fall back to the
+   browser default "ease" instead of the intended slow-settling cubic-bezier,
+   so the card entrance reads faster/flatter than the original. */
+.slideRightUp2 {
+  animation-timing-function: var(--nm-cube-1);
+  /* The theme's own 0.8s reads as an abrupt snap once the fixed easing
+     bug above is corrected - slow it down for a more graceful entrance. */
+  animation-duration: 1.8s;
+}
+
+/* FAQ left contact panel: the original theme pins this with a GSAP
+   ScrollTrigger whose "end" is recomputed from the right column's live
+   height. Opening/closing an accordion item changes that height, which
+   forced a mid-pin re-measurement (via the debounced ResizeObserver
+   refresh in ScrollReveal.tsx) and made the pinned panel visibly
+   reposition/flicker on every toggle. Native `position: sticky` gets the
+   same "stick while the taller right column scrolls past, release at its
+   end" behavior for free from the browser's own layout engine - no JS
+   re-measurement, so no flicker, ever. */
+@media (min-width: 1200px) {
+  .nm-faqs-1-contact-pin {
+    position: sticky;
+    top: 30px;
+  }
+}
+
+/* nimo-core.css references this icon as `url(../img/breadcrumb/icon.svg)`,
+   relative to the CSS file's own location - that resolves against
+   app/styles/img/breadcrumb/icon.svg, which doesn't exist (the theme's img
+   folder was only mirrored into public/img). Point it at the real,
+   publicly-served copy instead. */
+.nm-breadcrumb-list a::after {
+  background-image: url(/img/breadcrumb/icon.svg);
+}

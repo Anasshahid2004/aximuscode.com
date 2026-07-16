@@ -1,0 +1,43 @@
+/* Reproduces post 75's outer/card/column Elementor containers directly
+   (see app/lib/render-elementor.tsx for why this isn't handled generically -
+   other pages nest nimo-core widgets inside similar containers that already
+   get their layout from nimo-core.css). */
+.wrap {
+  max-width: 1340px;
+  margin: 0 auto;
+  padding: 110px 10px 30px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  background: #000;
+  border-radius: 15px;
+  padding: 30px;
+}
+
+.left {
+  width: 70%;
+  padding: 10px 75px 10px 10px;
+}
+
+.right {
+  width: 30%;
+}
+
+.right img {
+  width: 100%;
+  display: block;
+}
+
+@media (max-width: 991px) {
+  .card {
+    flex-wrap: wrap;
+    padding: 10px;
+  }
+  .left,
+  .right {
+    width: 100%;
+    padding: 10px;
+  }
+}

@@ -1,0 +1,519 @@
+[
+  {
+    "id": "343f1b9",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "08987fc",
+        "elType": "widget",
+        "settings": {
+          "big_title": "Contact Us",
+          "sub_title": "{11} Contact Us",
+          "title": "Want to work with us? Let's connect",
+          "description": "The opportunity to work abroad is a popular prospect, one",
+          "short_description": "The opportunity to work abroad is a popular prospect, one",
+          "image_1": {
+            "url": "/images/p1-bg-shape-1.webp",
+            "id": 159,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/c1-img-1-1.webp",
+            "id": 1189,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_3": {
+            "url": "/images/left-arrow.webp",
+            "id": 1190,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_4": {
+            "url": "/images/favicon-icon.webp",
+            "id": 1191,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "contact_infos": [
+            {
+              "title": "Office Address",
+              "_id": "9fba4be",
+              "icon": {
+                "value": "flaticon flaticon-maps-and-flags",
+                "library": "element-helper-flaticon"
+              },
+              "text": "<p class=\"nm-p-1 disc\">12/A, New Booston Tower, New York, US</p>"
+            },
+            {
+              "title": "24/7 Support",
+              "icon": {
+                "value": "flaticon flaticon-costumer-service",
+                "library": "element-helper-flaticon"
+              },
+              "text": "<p class=\"nm-p-1 disc\"><b>Call</b><a href=\"#\" aria-label=\"name\">+324 5678 4321</a></p><p class=\"nm-p-1 disc\"><b>Mail</b><a href=\"#\" aria-label=\"name\">info@gmail.com</a></p>",
+              "_id": "e7816ba"
+            },
+            {
+              "title": "Business Hours",
+              "icon": {
+                "value": "far fa-clock",
+                "library": "fa-regular"
+              },
+              "text": "<p class=\"nm-p-1 disc\">Mon - Sat 8 AM - 10 PM</p><p class=\"nm-p-1 disc\">Sun 11 AM - 5 PM</p>",
+              "_id": "70ab9a1"
+            }
+          ],
+          "form_heading_1": "Contact Form Heading",
+          "form_description": "Contact Form Description",
+          "form_shortcode": "Default Text",
+          "button_text": "Get In touch",
+          "button_link": {
+            "url": "/contact/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_button_icon": "yes",
+          "button_icon": {
+            "value": "flaticon flaticon-return",
+            "library": "element-helper-flaticon"
+          },
+          "social_links": [
+            {
+              "_id": "7b24829",
+              "social_icon": {
+                "value": "fab fa-x-twitter",
+                "library": "fa-brands"
+              },
+              "social_title": "Twitter"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-behance",
+                "library": "fa-brands"
+              },
+              "social_title": "Behance",
+              "_id": "08a28ad"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-dribbble",
+                "library": "fa-brands"
+              },
+              "social_title": "Dribble",
+              "_id": "7b890be"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-instagram",
+                "library": "fa-brands"
+              },
+              "social_title": "Instagram",
+              "_id": "dda2eee"
+            }
+          ],
+          "_background_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "tx_contact_info"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "fdf88ac",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "08832e8",
+        "elType": "widget",
+        "settings": {
+          "design_style": "style_2",
+          "contact_info_sub_title": "Response time: 1 hours",
+          "contact_info_title": "Tell details about your project",
+          "contact_shortcode": "[contact-form-7 id=\"f34c924\" title=\"Contact Form H_1\"]",
+          "sub_title": "{09} FAQs",
+          "title": "Learn more from FAQs",
+          "description": "The opportunity to work abroad is a popular prospect, one",
+          "txTab_lists": [
+            {
+              "_id": "d83e80d",
+              "tab_title": "General Ask",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "Description",
+              "feature_lists_1": "Feature",
+              "button_text": "Button Text",
+              "design_style": "style_2",
+              "template": "248",
+              "resolved_template": {
+                "widgetType": "tx_faq",
+                "settings": {
+                  "sub_title": "Sub Title",
+                  "title": "Heading Title",
+                  "title_2": "Know more about us by FAQ",
+                  "description": "The opportunity to work abroad is a popular prospect, one",
+                  "faq_lists": [
+                    {
+                      "title": "What services do you offer?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "_id": "9a6f99e",
+                      "is_active": "yes",
+                      "count": "01"
+                    },
+                    {
+                      "title": "How long does a website project take?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "02",
+                      "_id": "71f3685"
+                    },
+                    {
+                      "title": "Do you work with international clients?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "03",
+                      "_id": "83684e3"
+                    },
+                    {
+                      "title": "Can you redesign my existing website?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "04",
+                      "_id": "5434294"
+                    },
+                    {
+                      "title": "How do I get started?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "05",
+                      "_id": "e898567"
+                    },
+                    {
+                      "title": "Will my website be mobile-friendly?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "06",
+                      "_id": "d4f610d"
+                    },
+                    {
+                      "title": "Do you provide ongoing support after the launch?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "07",
+                      "_id": "5c8d9ac"
+                    }
+                  ],
+                  "button_text": "Button Text"
+                }
+              }
+            },
+            {
+              "tab_title": "Job Career",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "Description",
+              "feature_lists_1": "Feature",
+              "button_text": "Button Text",
+              "design_style": "style_2",
+              "is_active": "",
+              "template": "248",
+              "_id": "cfe8bf4",
+              "resolved_template": {
+                "widgetType": "tx_faq",
+                "settings": {
+                  "sub_title": "Sub Title",
+                  "title": "Heading Title",
+                  "title_2": "Know more about us by FAQ",
+                  "description": "The opportunity to work abroad is a popular prospect, one",
+                  "faq_lists": [
+                    {
+                      "title": "What services do you offer?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "_id": "9a6f99e",
+                      "is_active": "yes",
+                      "count": "01"
+                    },
+                    {
+                      "title": "How long does a website project take?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "02",
+                      "_id": "71f3685"
+                    },
+                    {
+                      "title": "Do you work with international clients?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "03",
+                      "_id": "83684e3"
+                    },
+                    {
+                      "title": "Can you redesign my existing website?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "04",
+                      "_id": "5434294"
+                    },
+                    {
+                      "title": "How do I get started?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "05",
+                      "_id": "e898567"
+                    },
+                    {
+                      "title": "Will my website be mobile-friendly?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "06",
+                      "_id": "d4f610d"
+                    },
+                    {
+                      "title": "Do you provide ongoing support after the launch?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "07",
+                      "_id": "5c8d9ac"
+                    }
+                  ],
+                  "button_text": "Button Text"
+                }
+              }
+            },
+            {
+              "tab_title": "Pricing & Plan",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "Description",
+              "feature_lists_1": "Feature",
+              "button_text": "Button Text",
+              "design_style": "style_2",
+              "is_active": "",
+              "template": "248",
+              "_id": "5065b08",
+              "resolved_template": {
+                "widgetType": "tx_faq",
+                "settings": {
+                  "sub_title": "Sub Title",
+                  "title": "Heading Title",
+                  "title_2": "Know more about us by FAQ",
+                  "description": "The opportunity to work abroad is a popular prospect, one",
+                  "faq_lists": [
+                    {
+                      "title": "What services do you offer?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "_id": "9a6f99e",
+                      "is_active": "yes",
+                      "count": "01"
+                    },
+                    {
+                      "title": "How long does a website project take?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "02",
+                      "_id": "71f3685"
+                    },
+                    {
+                      "title": "Do you work with international clients?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "03",
+                      "_id": "83684e3"
+                    },
+                    {
+                      "title": "Can you redesign my existing website?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "04",
+                      "_id": "5434294"
+                    },
+                    {
+                      "title": "How do I get started?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "05",
+                      "_id": "e898567"
+                    },
+                    {
+                      "title": "Will my website be mobile-friendly?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "06",
+                      "_id": "d4f610d"
+                    },
+                    {
+                      "title": "Do you provide ongoing support after the launch?",
+                      "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                      "is_active": "",
+                      "count": "07",
+                      "_id": "5c8d9ac"
+                    }
+                  ],
+                  "button_text": "Button Text"
+                }
+              }
+            }
+          ],
+          "button_info_text": "Button Info Text",
+          "button_text": "Button Text",
+          "enable_description": "",
+          "image_1": {
+            "url": "/images/a1-bg-shape-1.webp",
+            "id": 126,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "_background_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "tx_tabs"
+      }
+    ],
+    "isInner": true
+  }
+]

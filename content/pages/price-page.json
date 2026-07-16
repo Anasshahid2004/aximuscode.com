@@ -1,0 +1,285 @@
+[
+  {
+    "id": "6db7326",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "c35d239",
+        "elType": "widget",
+        "settings": {
+          "sub_icon_1": {
+            "value": "flaticon flaticon-asterisk-1",
+            "library": "element-helper-flaticon"
+          },
+          "sub_title": "06. Pricing",
+          "title": "Nimo Digital marketing agency pricing",
+          "description": "At <b>Nimo Digital Agency.</b> we don't just build website - we create digital experiences that inspire, engage, and covert",
+          "image_1": {
+            "url": "/images/h2-bg-noise-1.gif",
+            "id": 1205,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/s2-3d-shape-2.webp",
+            "id": 1397,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "pricing_text_1": "Monthly",
+          "pricing_text_2": "Yearly",
+          "pricing_discounts": "Save 25%",
+          "pricing_boxs": [
+            {
+              "_id": "23d5756",
+              "package_name": "Basic",
+              "price": "10",
+              "price_year": "99",
+              "price_period": "/month",
+              "price_period_year": "/year",
+              "price_short_description": "Perfect for startup and small business online presence.",
+              "feature_heading": "What you Get",
+              "pricing_description": "8–10 posts per month (static + reels/stories)\nCaption writing & hashtag strategy\n1 Facebook or Instagram ad campaign\nAd copy, creative, and audience targeting\nEmail support & one strategy call per month\n8–10 posts per month (static + reels/stories)\nOption to pause or upgrade anytime",
+              "button_text": "Get started",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              }
+            },
+            {
+              "package_name": "Premium",
+              "price": "100",
+              "price_year": "299",
+              "price_period": "/month",
+              "price_period_year": "/year",
+              "price_short_description": "Ideal for growing brands that need full-scale digital support.",
+              "feature_heading": "What you Get",
+              "pricing_description": "8–10 posts per month (static + reels/stories)\nCaption writing & hashtag strategy\n1 Facebook or Instagram ad campaign\nAd copy, creative, and audience targeting\nEmail support & one strategy call per month\n8–10 posts per month (static + reels/stories)\nOption to pause or upgrade anytime",
+              "button_text": "Get started",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "221a0b4"
+            },
+            {
+              "package_name": "Advance",
+              "price": "550",
+              "price_year": "999",
+              "price_period": "/month",
+              "price_period_year": "/year",
+              "price_short_description": "For businesses seeking advanced strategy, full creative support.",
+              "feature_heading": "What you Get",
+              "pricing_description": "8–10 posts per month (static + reels/stories)\nCaption writing & hashtag strategy\n1 Facebook or Instagram ad campaign\nAd copy, creative, and audience targeting\nEmail support & one strategy call per month\n8–10 posts per month (static + reels/stories)\nOption to pause or upgrade anytime",
+              "button_text": "Get started",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "b4253eb"
+            }
+          ],
+          "list_items": [
+            {
+              "info_label": "Custom Reports",
+              "_id": "6c4ad62",
+              "icon": {
+                "value": "flaticon flaticon-asterisk-1",
+                "library": "element-helper-flaticon"
+              }
+            },
+            {
+              "info_label": "Collaboration Tools",
+              "icon": {
+                "value": "flaticon flaticon-asterisk-1",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "38557a1"
+            },
+            {
+              "info_label": "Mobile Access",
+              "icon": {
+                "value": "flaticon flaticon-asterisk-1",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "f4d7417"
+            },
+            {
+              "info_label": "Data Security",
+              "icon": {
+                "value": "flaticon flaticon-asterisk-1",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "255051d"
+            },
+            {
+              "info_label": "It Solutions",
+              "icon": {
+                "value": "flaticon flaticon-asterisk-1",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "c37ca7b"
+            },
+            {
+              "info_label": "Technology",
+              "icon": {
+                "value": "flaticon flaticon-asterisk-1",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "049c0dc"
+            }
+          ],
+          "enable_moving_text": "yes",
+          "gallery_heading": "All Plans Include",
+          "image_3": {
+            "url": "/images/s2-3d-shape-3.png",
+            "id": 1227,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "mask_image": {
+            "url": "/images/p1-mask-shape.webp",
+            "id": 1223,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "service_section_padding": {
+            "unit": "px",
+            "top": "120",
+            "right": "0",
+            "bottom": "120",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "tx_pricing_section"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "b71f2d9",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "71fe402",
+        "elType": "widget",
+        "settings": {
+          "sub_title_icon": {
+            "value": "flaticon flaticon-electricity",
+            "library": "element-helper-flaticon"
+          },
+          "sub_title": "Free Trial",
+          "title": "Start your 7-day free trial",
+          "description": "Experience hassle-free project management with a free trial—no commitment required.",
+          "image_1": {
+            "url": "/images/h2-bg-noise-1.gif",
+            "id": 1205,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/t2-bg-shape.webp",
+            "id": 1352,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "newsletter_shortcode": "[contact-form-7 id=\"ba91d2d\" title=\"Newsletter H_2\"]",
+          "count_heading": "Count Heading",
+          "count_boxs": [
+            {
+              "_id": "e849c85",
+              "count_number": 390,
+              "count_prefix": "+",
+              "count_title": "Delivered projects"
+            },
+            {
+              "count_number": 90,
+              "count_prefix": "%",
+              "count_title": "Success Rate",
+              "_id": "8f95c6d"
+            },
+            {
+              "count_number": 15,
+              "count_prefix": "+",
+              "count_title": "Years of experience",
+              "_id": "0f139bd"
+            }
+          ],
+          "feature_lists": [
+            {
+              "feature_text": "Free 7-day trial",
+              "_id": "03ce8f9",
+              "feature_icon": {
+                "value": "flaticon flaticon-check",
+                "library": "element-helper-flaticon"
+              }
+            },
+            {
+              "feature_text": "No credit card required",
+              "feature_icon": {
+                "value": "flaticon flaticon-check",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "9030b3d"
+            },
+            {
+              "feature_text": "Cancel anytime",
+              "feature_icon": {
+                "value": "flaticon flaticon-check",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "8c13da1"
+            }
+          ],
+          "service_section_padding": {
+            "unit": "px",
+            "top": "110",
+            "right": "0",
+            "bottom": "110",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "tx_newsletter"
+      }
+    ],
+    "isInner": false
+  }
+]

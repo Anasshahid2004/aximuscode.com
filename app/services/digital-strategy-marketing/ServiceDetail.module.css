@@ -1,0 +1,24 @@
+/* Reproduces the outer/inner Elementor containers post 147 was built with
+   directly (boxed_width: 1340px, inner column width: 70%, padding: 100px
+   10px) - see app/lib/render-elementor.tsx for why this isn't handled
+   generically: the rest of the site's pages nest nimo-core widgets inside
+   similar Elementor container wrappers that already get their layout from
+   nimo-core.css, so a generic container-settings-to-CSS translation risked
+   double-applying/conflicting layout on every other page. */
+.wrap {
+  max-width: 1340px;
+  margin: 0 auto;
+  padding: 100px 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.column {
+  width: 70%;
+}
+
+@media (max-width: 991px) {
+  .column {
+    width: 100%;
+  }
+}

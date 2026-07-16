@@ -1,0 +1,247 @@
+[
+  {
+    "id": "46b000d",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "ceeea5a",
+        "elType": "widget",
+        "settings": {
+          "top_sub_title": "{02} Our Services",
+          "top_title_1": "We area offing the best solutions",
+          "top_title_2": "Heading Title",
+          "top_description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
+          "sub_title": "{03} Why Choose Us?",
+          "title": "We area offing the best solutions",
+          "description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "count_boxs": [],
+          "service_slide_boxs": [
+            {
+              "_id": "19eedab",
+              "image_1": {
+                "url": "/images/c1-bg-shape-1.webp",
+                "id": 117,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/c1-img-1.webp",
+                "id": 119,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "icon": {
+                "value": "flaticon flaticon-electricity",
+                "library": "element-helper-flaticon"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "layout_style": "style_2",
+              "_id": "21c183d",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/c1-img-2.webp",
+                "id": 120,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "icon": {
+                "value": "flaticon flaticon-electricity",
+                "library": "element-helper-flaticon"
+              },
+              "title": "15+ Years Experiences",
+              "description": "Over 15 years of experience delivering innovative digital solutions.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "layout_style": "style_3",
+              "_id": "75dece9",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            }
+          ],
+          "button_text": "Button Text",
+          "author_shape_image": {
+            "url": "/images/c1-bg-shape-2.webp",
+            "id": 121,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "author_info": "99+ Happy client",
+          "info_icon": {
+            "value": "flaticon flaticon-time",
+            "library": "element-helper-flaticon"
+          },
+          "info_title": "7 day turnaround",
+          "info_image_1": {
+            "url": "/images/c1-bg-shape-2.webp",
+            "id": 121,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "info_image_2": {
+            "url": "/images/c1-clock.webm",
+            "id": 122,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "author_images": [
+            {
+              "id": 74,
+              "url": "/images/t1-author-1.webp"
+            },
+            {
+              "id": 131,
+              "url": "/images/t1-author-4.webp"
+            },
+            {
+              "id": 132,
+              "url": "/images/t1-author-2.webp"
+            },
+            {
+              "id": 133,
+              "url": "/images/t1-author-3.webp"
+            }
+          ],
+          "big_title": "Big Heading Title",
+          "_background_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "tx_service_section"
+      }
+    ],
+    "isInner": false
+  }
+]

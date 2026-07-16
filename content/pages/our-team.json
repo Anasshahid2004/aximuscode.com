@@ -1,0 +1,859 @@
+[
+  {
+    "id": "00a596a",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "overflow": "hidden",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "1fca1d7",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "45fbc4b",
+            "elType": "widget",
+            "settings": {
+              "image_1": {
+                "url": "/images/a1-bg-shape-bg-2.webp",
+                "id": 115,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/a1-bg-shape-bg-2.webp",
+                "id": 115,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "sub_title": "{08} Team member",
+              "title": "Driven by talent & creative souls",
+              "description": "At Nimo Digital Agency, we believe great work starts with great people. Our diverse team of creatives, strategists, and developers work together.",
+              "team_members": [
+                {
+                  "_id": "24f359b",
+                  "team_image": {
+                    "url": "/images/t1-img-1.webp",
+                    "id": 200,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-2.webp",
+                    "id": 199,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "8479e02",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-3.webp",
+                    "id": 201,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "2fdb03a",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-4.webp",
+                    "id": 202,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "d9982ac",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-5.webp",
+                    "id": 203,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "4601c2b",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-6.webp",
+                    "id": 198,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "4e68f9c",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                }
+              ],
+              "button_left_text": "More of our",
+              "button_text": "Team member",
+              "social_links": [],
+              "enable_button_icon": "yes",
+              "big_title_1": "Expert",
+              "big_title_2": "Team",
+              "button_icon": {
+                "value": "flaticon flaticon-right-arrow",
+                "library": "element-helper-flaticon"
+              },
+              "_background_color_stop_tablet": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_color_stop_mobile": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_color_b_stop_tablet": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_color_b_stop_mobile": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_gradient_angle_tablet": {
+                "unit": "deg",
+                "size": "",
+                "sizes": []
+              },
+              "_background_gradient_angle_mobile": {
+                "unit": "deg",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_color_stop_tablet": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_color_stop_mobile": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_color_b_stop_tablet": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_color_b_stop_mobile": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_gradient_angle_tablet": {
+                "unit": "deg",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_gradient_angle_mobile": {
+                "unit": "deg",
+                "size": "",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "tx_team_lists"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "2385fcf",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "57cea06",
+            "elType": "widget",
+            "settings": {
+              "design_style": "style_2",
+              "contact_info_sub_title": "Response time: 1 hours",
+              "contact_info_title": "Tell details about your project",
+              "contact_shortcode": "[contact-form-7 id=\"f34c924\" title=\"Contact Form H_1\"]",
+              "sub_title": "{09} FAQs",
+              "title": "Learn more from FAQs",
+              "description": "The opportunity to work abroad is a popular prospect, one",
+              "txTab_lists": [
+                {
+                  "_id": "d83e80d",
+                  "tab_title": "General Ask",
+                  "tab_heading_1": "Tab Heading",
+                  "description_1": "Description",
+                  "feature_lists_1": "Feature",
+                  "button_text": "Button Text",
+                  "design_style": "style_2",
+                  "template": "248",
+                  "resolved_template": {
+                    "widgetType": "tx_faq",
+                    "settings": {
+                      "sub_title": "Sub Title",
+                      "title": "Heading Title",
+                      "title_2": "Know more about us by FAQ",
+                      "description": "The opportunity to work abroad is a popular prospect, one",
+                      "faq_lists": [
+                        {
+                          "title": "What services do you offer?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "_id": "9a6f99e",
+                          "is_active": "yes",
+                          "count": "01"
+                        },
+                        {
+                          "title": "How long does a website project take?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "02",
+                          "_id": "71f3685"
+                        },
+                        {
+                          "title": "Do you work with international clients?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "03",
+                          "_id": "83684e3"
+                        },
+                        {
+                          "title": "Can you redesign my existing website?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "04",
+                          "_id": "5434294"
+                        },
+                        {
+                          "title": "How do I get started?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "05",
+                          "_id": "e898567"
+                        },
+                        {
+                          "title": "Will my website be mobile-friendly?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "06",
+                          "_id": "d4f610d"
+                        },
+                        {
+                          "title": "Do you provide ongoing support after the launch?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "07",
+                          "_id": "5c8d9ac"
+                        }
+                      ],
+                      "button_text": "Button Text"
+                    }
+                  }
+                },
+                {
+                  "tab_title": "Job Career",
+                  "tab_heading_1": "Tab Heading",
+                  "description_1": "Description",
+                  "feature_lists_1": "Feature",
+                  "button_text": "Button Text",
+                  "design_style": "style_2",
+                  "is_active": "",
+                  "template": "248",
+                  "_id": "cfe8bf4",
+                  "resolved_template": {
+                    "widgetType": "tx_faq",
+                    "settings": {
+                      "sub_title": "Sub Title",
+                      "title": "Heading Title",
+                      "title_2": "Know more about us by FAQ",
+                      "description": "The opportunity to work abroad is a popular prospect, one",
+                      "faq_lists": [
+                        {
+                          "title": "What services do you offer?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "_id": "9a6f99e",
+                          "is_active": "yes",
+                          "count": "01"
+                        },
+                        {
+                          "title": "How long does a website project take?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "02",
+                          "_id": "71f3685"
+                        },
+                        {
+                          "title": "Do you work with international clients?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "03",
+                          "_id": "83684e3"
+                        },
+                        {
+                          "title": "Can you redesign my existing website?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "04",
+                          "_id": "5434294"
+                        },
+                        {
+                          "title": "How do I get started?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "05",
+                          "_id": "e898567"
+                        },
+                        {
+                          "title": "Will my website be mobile-friendly?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "06",
+                          "_id": "d4f610d"
+                        },
+                        {
+                          "title": "Do you provide ongoing support after the launch?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "07",
+                          "_id": "5c8d9ac"
+                        }
+                      ],
+                      "button_text": "Button Text"
+                    }
+                  }
+                },
+                {
+                  "tab_title": "Pricing & Plan",
+                  "tab_heading_1": "Tab Heading",
+                  "description_1": "Description",
+                  "feature_lists_1": "Feature",
+                  "button_text": "Button Text",
+                  "design_style": "style_2",
+                  "is_active": "",
+                  "template": "248",
+                  "_id": "5065b08",
+                  "resolved_template": {
+                    "widgetType": "tx_faq",
+                    "settings": {
+                      "sub_title": "Sub Title",
+                      "title": "Heading Title",
+                      "title_2": "Know more about us by FAQ",
+                      "description": "The opportunity to work abroad is a popular prospect, one",
+                      "faq_lists": [
+                        {
+                          "title": "What services do you offer?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "_id": "9a6f99e",
+                          "is_active": "yes",
+                          "count": "01"
+                        },
+                        {
+                          "title": "How long does a website project take?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "02",
+                          "_id": "71f3685"
+                        },
+                        {
+                          "title": "Do you work with international clients?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "03",
+                          "_id": "83684e3"
+                        },
+                        {
+                          "title": "Can you redesign my existing website?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "04",
+                          "_id": "5434294"
+                        },
+                        {
+                          "title": "How do I get started?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "05",
+                          "_id": "e898567"
+                        },
+                        {
+                          "title": "Will my website be mobile-friendly?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "06",
+                          "_id": "d4f610d"
+                        },
+                        {
+                          "title": "Do you provide ongoing support after the launch?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "07",
+                          "_id": "5c8d9ac"
+                        }
+                      ],
+                      "button_text": "Button Text"
+                    }
+                  }
+                }
+              ],
+              "button_info_text": "Button Info Text",
+              "button_text": "Button Text",
+              "enable_description": "",
+              "image_1": {
+                "url": "/images/a1-bg-shape-1.webp",
+                "id": 126,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "_background_color_stop_tablet": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_color_stop_mobile": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_color_b_stop_tablet": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_color_b_stop_mobile": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_gradient_angle_tablet": {
+                "unit": "deg",
+                "size": "",
+                "sizes": []
+              },
+              "_background_gradient_angle_mobile": {
+                "unit": "deg",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_color_stop_tablet": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_color_stop_mobile": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_color_b_stop_tablet": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_color_b_stop_mobile": {
+                "unit": "%",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_gradient_angle_tablet": {
+                "unit": "deg",
+                "size": "",
+                "sizes": []
+              },
+              "_background_hover_gradient_angle_mobile": {
+                "unit": "deg",
+                "size": "",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "tx_tabs"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

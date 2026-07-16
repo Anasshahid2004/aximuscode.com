@@ -1,0 +1,740 @@
+[
+  {
+    "id": "7ae7008",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "a82aa4c",
+        "elType": "widget",
+        "settings": {
+          "contact_info_sub_title": "Contact Info",
+          "contact_info_title": "Contact Info Title",
+          "contact_shortcode": "[contact-form-7 id=\"123\" title=\"Contact form 1\"]",
+          "sub_title": "{02} Our Services",
+          "title": "We area offing the best solutions",
+          "description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
+          "txTab_lists": [
+            {
+              "_id": "18968ad",
+              "tab_icon": {
+                "value": "flaticon flaticon-irregular",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-1.webp",
+                "id": 100,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "1. Brand Identity & Graphics",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              }
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-2.webp",
+                "id": 108,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "2. Web & App Development",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "73e79d9"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-3.webp",
+                "id": 107,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "3. UI/UX Design",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "3063957"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-4.webp",
+                "id": 106,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "4. Digital Strategy & Marketing",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "884e453"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-5.webp",
+                "id": 105,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "5. E-Commerce Solutions",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "faea8b0"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-6.webp",
+                "id": 104,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "6. User Research & Personas",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "e8a3fd3"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-7.webp",
+                "id": 103,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "7. Visual Identity Design",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "96ddac3"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-7.webp",
+                "id": 103,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "8. Stationery & Print Design",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "284a30e"
+            }
+          ],
+          "button_info_text": "Button Info Text",
+          "button_text": "Button Text",
+          "_background_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "tx_tabs"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "97416b6",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "842fd33",
+        "elType": "widget",
+        "settings": {
+          "design_style": "style_3",
+          "top_sub_title": "Sub Title",
+          "top_title_1": "Heading Title",
+          "top_title_2": "Heading Title",
+          "top_description": "The opportunity to work abroad is a popular prospect, one",
+          "sub_title": "{07} Steps",
+          "title": "3 easy steps to get started",
+          "description": "Our three-step method blends strategy and creativity while keeping you in the loop",
+          "count_boxs": [],
+          "service_slide_boxs": [
+            {
+              "_id": "880f41b",
+              "design_style": "style_3",
+              "title": "<span>01.</span>Discovery & Strategy",
+              "description": "We start by understanding your goals, audience, and challenges. Together, we define the vision and roadmap.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "sub_title": "3-5 days",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "design_style": "style_3",
+              "title": "<span>02.</span>Design & Prototype",
+              "description": "Our team crafts modern, user-friendly designs that reflect your brand and engage your users.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "count": 2,
+              "sub_title": "1 week",
+              "_id": "471167b",
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "design_style": "style_3",
+              "title": "<span>03.</span>Launch & Support",
+              "description": "After launch, we stay by your side with updates, optimizations, and long-term support.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "count": 3,
+              "sub_title": "4-7 days",
+              "_id": "7f745d4",
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            }
+          ],
+          "button_text": "Button Text",
+          "author_info": "Default Text",
+          "info_title": "Info Title",
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "big_title": "Big Heading Title",
+          "_background_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "tx_service_section"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "bc3e482",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "ca2ac2b",
+        "elType": "widget",
+        "settings": {
+          "sub_title": "{10} Latest Insights",
+          "title": "Here's what we've been up to",
+          "description": "Explore industry insights, expert tips, and creative inspiration from the Nimo team. Our blog is where we share knowledge, ideas, and what’s next in digital.",
+          "button_text": "More blog",
+          "post_by_label": "By",
+          "read_more_text": "Read More",
+          "excerpt_length": 20,
+          "selected_list_post": [
+            {
+              "_id": "58d6e8b",
+              "image": {
+                "url": "/images/b1-img-1.webp",
+                "id": 1184,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Nimo Wins \"Top creative Agency\" Award",
+              "post_id": "1181"
+            },
+            {
+              "image": {
+                "url": "/images/b1-img-2.webp",
+                "id": 1185,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
+              "post_id": "1179",
+              "_id": "e47e763"
+            },
+            {
+              "image": {
+                "url": "/images/b1-img-3.webp",
+                "id": 1183,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Nimo at the Digital future Summit 2025",
+              "post_id": "1177",
+              "_id": "6421be6"
+            }
+          ],
+          "selected_list_page": [],
+          "selected_list_product": [],
+          "selected_list_tf-header": [],
+          "selected_list_tf-footer": [],
+          "selected_list_services": [],
+          "selected_list_teams": [],
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "button_link": {
+            "url": "/blog/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_button_icon": "yes",
+          "button_icon": {
+            "value": " fas fa-long-arrow-right",
+            "library": "element-helper-icons"
+          },
+          "show_post_by": "selected",
+          "category_meta": "yes",
+          "_background_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "resolved_posts": [
+            {
+              "id": "1181",
+              "title": "Nimo Wins \"Top creative Agency\" Award",
+              "image": "/images/b1-img-1.webp",
+              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "date": "2024-01-10",
+              "category": "Clock Fly Strategy",
+              "slug": "nimo-wins-top-creative-agency-award"
+            },
+            {
+              "id": "1179",
+              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
+              "image": "/images/b1-img-2.webp",
+              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "date": "2024-01-10",
+              "category": "Email Marketing",
+              "slug": "nimo-launches-10-wordpress-themes-on-themeforest"
+            },
+            {
+              "id": "1177",
+              "title": "Nimo at the Digital future Summit 2025",
+              "image": "/images/b1-img-3.webp",
+              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "date": "2024-01-10",
+              "category": "Clock Fly Strategy",
+              "slug": "nimo-at-the-digital-future-summit-2025"
+            }
+          ]
+        },
+        "elements": [],
+        "widgetType": "tx_post_grid"
+      }
+    ],
+    "isInner": false
+  }
+]

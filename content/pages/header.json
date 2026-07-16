@@ -1,0 +1,105 @@
+[
+  {
+    "id": "b26be28",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "3402060",
+        "elType": "widget",
+        "settings": {
+          "logo": {
+            "url": "/images/logo-1.webp",
+            "id": 1461,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "mobile_logo": {
+            "url": "/images/logo-1.webp",
+            "id": 1461,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "button_text": "Get in Touch",
+          "social_heading": "We're on social media:",
+          "social_links": [
+            {
+              "_id": "81f1b1e",
+              "social_icon": {
+                "value": "fab fa-linkedin-in",
+                "library": "fa-brands"
+              }
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-facebook-f",
+                "library": "fa-brands"
+              },
+              "_id": "79b1d1c"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-x-twitter",
+                "library": "fa-brands"
+              },
+              "_id": "be70988"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-instagram",
+                "library": "fa-brands"
+              },
+              "_id": "f162386"
+            }
+          ],
+          "gallery_heading": "Stay Inspired with Instagram",
+          "select_menu": "main-menu",
+          "select_mobile_menu": "main-menu",
+          "button_icon": {
+            "value": " fas fa-long-arrow-right",
+            "library": "element-helper-icons"
+          },
+          "button_link": {
+            "url": "/contact/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "gallerys": [
+            {
+              "id": 144,
+              "url": "/images/p1-img-1.webp"
+            },
+            {
+              "id": 145,
+              "url": "/images/p1-img-2.webp"
+            },
+            {
+              "id": 146,
+              "url": "/images/p1-img-3.webp"
+            },
+            {
+              "id": 143,
+              "url": "/images/p1-img-4.webp"
+            }
+          ]
+        },
+        "elements": [],
+        "widgetType": "tx_headers"
+      }
+    ],
+    "isInner": false
+  }
+]

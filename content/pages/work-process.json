@@ -1,0 +1,698 @@
+[
+  {
+    "id": "80986f9",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "b44a800",
+        "elType": "widget",
+        "settings": {
+          "top_sub_title": "{04} FunFacts",
+          "top_title_1": "\"A streamlined",
+          "top_title_2": "solution build to power business.\"",
+          "top_description": "We’re more than pixels and code — we’re coffee lovers, cat people, meme sharers, and design geeks.",
+          "sub_title": "{02} Our Services",
+          "title": "We area offing the best solutions",
+          "description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "count_boxs": [
+            {
+              "_id": "0ae9fd4",
+              "count_number": 95,
+              "count_prefix": "%",
+              "count_title": "Customer satisfaction"
+            },
+            {
+              "count_number": 12,
+              "count_prefix": "+",
+              "count_title": "Years of experience",
+              "_id": "0ebb912"
+            },
+            {
+              "count_number": 22,
+              "count_prefix": "+",
+              "count_title": "Projects completed",
+              "_id": "036eda0"
+            }
+          ],
+          "service_slide_boxs": [
+            {
+              "_id": "19eedab",
+              "image_1": {
+                "url": "/images/p1-img-1.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/digital-strategy-marketing/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/p1-img-2.webp",
+                "id": 145,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/digital-strategy-marketing/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "_id": "e267f0d",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/p1-img-3.webp",
+                "id": 146,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/digital-strategy-marketing/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "_id": "f62c21d",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/p1-img-4.webp",
+                "id": 143,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/digital-strategy-marketing/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "_id": "5666f87",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            }
+          ],
+          "button_text": "More Portfolio",
+          "author_shape_image": {
+            "url": "/images/c1-bg-shape-2.webp",
+            "id": 121,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "author_info": "99+ Happy client",
+          "info_icon": {
+            "value": "flaticon flaticon-time",
+            "library": "element-helper-flaticon"
+          },
+          "info_title": "7 day turnaround",
+          "info_image_1": {
+            "url": "/images/c1-bg-shape-2.webp",
+            "id": 121,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "info_image_2": {
+            "url": "/images/c1-clock.webm",
+            "id": 122,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "design_style": "style_2",
+          "button_link": {
+            "url": "/our-services/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "author_images": [
+            {
+              "id": 74,
+              "url": "/images/t1-author-1.webp"
+            },
+            {
+              "id": 131,
+              "url": "/images/t1-author-4.webp"
+            },
+            {
+              "id": 132,
+              "url": "/images/t1-author-2.webp"
+            },
+            {
+              "id": 133,
+              "url": "/images/t1-author-3.webp"
+            }
+          ],
+          "top_title_image": {
+            "url": "/images/haha-emoji.webp",
+            "id": 157,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_3": {
+            "url": "/images/p1-bg-shape-1.webp",
+            "id": 159,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "big_title": "Big Heading Title",
+          "_background_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "tx_service_section"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "b104c64",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "75f293c",
+        "elType": "widget",
+        "settings": {
+          "design_style": "style_3",
+          "top_sub_title": "Sub Title",
+          "top_title_1": "Heading Title",
+          "top_title_2": "Heading Title",
+          "top_description": "The opportunity to work abroad is a popular prospect, one",
+          "sub_title": "{07} Steps",
+          "title": "3 easy steps to get started",
+          "description": "Our three-step method blends strategy and creativity while keeping you in the loop",
+          "count_boxs": [],
+          "service_slide_boxs": [
+            {
+              "_id": "880f41b",
+              "design_style": "style_3",
+              "title": "<span>01.</span>Discovery & Strategy",
+              "description": "We start by understanding your goals, audience, and challenges. Together, we define the vision and roadmap.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "sub_title": "3-5 days",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "design_style": "style_3",
+              "title": "<span>02.</span>Design & Prototype",
+              "description": "Our team crafts modern, user-friendly designs that reflect your brand and engage your users.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "count": 2,
+              "sub_title": "1 week",
+              "_id": "471167b",
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "design_style": "style_3",
+              "title": "<span>03.</span>Launch & Support",
+              "description": "After launch, we stay by your side with updates, optimizations, and long-term support.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "count": 3,
+              "sub_title": "4-7 days",
+              "_id": "7f745d4",
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            }
+          ],
+          "button_text": "Button Text",
+          "author_info": "Default Text",
+          "info_title": "Info Title",
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "big_title": "Big Heading Title",
+          "_background_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "tx_service_section"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cf74d96",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "60ca2b4",
+        "elType": "widget",
+        "settings": {
+          "sub_title": "{10} Latest Insights",
+          "title": "Here's what we've been up to",
+          "description": "Explore industry insights, expert tips, and creative inspiration from the Nimo team. Our blog is where we share knowledge, ideas, and what’s next in digital.",
+          "button_text": "More blog",
+          "post_by_label": "By",
+          "read_more_text": "Read More",
+          "excerpt_length": 20,
+          "selected_list_post": [
+            {
+              "_id": "58d6e8b",
+              "image": {
+                "url": "/images/b1-img-1.webp",
+                "id": 1184,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Nimo Wins \"Top creative Agency\" Award",
+              "post_id": "1181"
+            },
+            {
+              "image": {
+                "url": "/images/b1-img-2.webp",
+                "id": 1185,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
+              "post_id": "1179",
+              "_id": "e47e763"
+            },
+            {
+              "image": {
+                "url": "/images/b1-img-3.webp",
+                "id": 1183,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Nimo at the Digital future Summit 2025",
+              "post_id": "1177",
+              "_id": "6421be6"
+            }
+          ],
+          "selected_list_page": [],
+          "selected_list_product": [],
+          "selected_list_tf-header": [],
+          "selected_list_tf-footer": [],
+          "selected_list_services": [],
+          "selected_list_teams": [],
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "button_link": {
+            "url": "/blog/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_button_icon": "yes",
+          "button_icon": {
+            "value": " fas fa-long-arrow-right",
+            "library": "element-helper-icons"
+          },
+          "show_post_by": "selected",
+          "category_meta": "yes",
+          "_background_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_color_b_stop_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_tablet": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "_background_hover_gradient_angle_mobile": {
+            "unit": "deg",
+            "size": "",
+            "sizes": []
+          },
+          "resolved_posts": [
+            {
+              "id": "1181",
+              "title": "Nimo Wins \"Top creative Agency\" Award",
+              "image": "/images/b1-img-1.webp",
+              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "date": "2024-01-10",
+              "category": "Clock Fly Strategy",
+              "slug": "nimo-wins-top-creative-agency-award"
+            },
+            {
+              "id": "1179",
+              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
+              "image": "/images/b1-img-2.webp",
+              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "date": "2024-01-10",
+              "category": "Email Marketing",
+              "slug": "nimo-launches-10-wordpress-themes-on-themeforest"
+            },
+            {
+              "id": "1177",
+              "title": "Nimo at the Digital future Summit 2025",
+              "image": "/images/b1-img-3.webp",
+              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "date": "2024-01-10",
+              "category": "Clock Fly Strategy",
+              "slug": "nimo-at-the-digital-future-summit-2025"
+            }
+          ]
+        },
+        "elements": [],
+        "widgetType": "tx_post_grid"
+      }
+    ],
+    "isInner": false
+  }
+]

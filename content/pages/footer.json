@@ -1,0 +1,216 @@
+[
+  {
+    "id": "385ad33",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "dd65bb8",
+        "elType": "widget",
+        "settings": {
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-3.webp",
+            "id": 1572,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-3.webp",
+            "id": 1572,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "footer_logo": {
+            "url": "/images/logo-1.webp",
+            "id": 1461,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "footer_description": "Creative minds building impactful digital experience.",
+          "contact_info_icon": {
+            "value": "fas fa-envelope",
+            "library": "fa-solid"
+          },
+          "contact_info_text": "info@nimo.com",
+          "contact_info_link": {
+            "url": "mailto:info@nimo.com",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "contact_info_bottom_text": "Available for hire!",
+          "contact_info_bottom_link": {
+            "url": "/contact/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "link_list_1_heading": "Quick Navigation",
+          "link_list_1": [
+            {
+              "_id": "74e8dd9",
+              "link_text": "About us",
+              "link_url": {
+                "url": "/about-us/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              }
+            },
+            {
+              "link_text": "Features",
+              "link_url": {
+                "url": "/about-us/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "ac2d6e4"
+            },
+            {
+              "link_text": "Pricing",
+              "link_url": {
+                "url": "/price-page/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "ad0c949"
+            },
+            {
+              "link_text": "Testimonials",
+              "link_url": {
+                "url": "/testimonial/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "a867bb5"
+            },
+            {
+              "link_text": "FAQ's",
+              "link_url": {
+                "url": "/faqs-page/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "6c729ad"
+            }
+          ],
+          "social_links_heading": "Social Media",
+          "social_links": [
+            {
+              "_id": "ed749c0",
+              "social_icon": {
+                "value": "fab fa-linkedin-in",
+                "library": "fa-brands"
+              }
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-instagram",
+                "library": "fa-brands"
+              },
+              "_id": "cff59df"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-x-twitter",
+                "library": "fa-brands"
+              },
+              "_id": "e091d98"
+            }
+          ],
+          "copyright_text": "© All rights reserved <span class=\"copyright-year\"></span>",
+          "footer_bottom_right_text": "Make with\n                            <i class=\"fa-solid fa-heart\"></i>\n                            by\n                            <a href=\"https://themexriver.com\" aria-label=\"themexriver\">Themexriver</a>",
+          "bottom_menu_links": [
+            {
+              "_id": "114d727",
+              "link_text": "Sitemap"
+            }
+          ],
+          "link_list_2_heading": "All Pages",
+          "link_list_2": [
+            {
+              "_id": "bdb5ae0",
+              "link_text": "Home",
+              "link_url": {
+                "url": "/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              }
+            },
+            {
+              "link_text": "Contact",
+              "link_url": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "4fa1426"
+            },
+            {
+              "link_text": "Blogs",
+              "link_url": {
+                "url": "/blog/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "3d14470"
+            },
+            {
+              "link_text": "Team",
+              "link_url": {
+                "url": "/our-team/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "546c86a"
+            },
+            {
+              "link_text": "Privacy Policy",
+              "link_url": {
+                "url": "/our-team/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "8b5a442"
+            },
+            {
+              "link_text": "404",
+              "link_url": {
+                "url": "/404",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_id": "26f5dca"
+            }
+          ]
+        },
+        "elements": [],
+        "widgetType": "tx_footers"
+      }
+    ],
+    "isInner": false
+  }
+]

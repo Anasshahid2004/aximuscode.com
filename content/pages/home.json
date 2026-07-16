@@ -1,0 +1,2759 @@
+[
+  {
+    "id": "e553422",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "7768190",
+        "elType": "widget",
+        "settings": {
+          "sub_title": "{ Best Award Winner 2025 }",
+          "title": "<span>Nimo</span>",
+          "big_title": "Digital Agency",
+          "description": "We design digital solutions that elevate your brand and boost conversions. Don’t settle for a site. Build a powerful platform.",
+          "button_text": "About Our Agency",
+          "button_link": {
+            "url": "/about-us/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_button_icon": "yes",
+          "button_icon": {
+            "value": " fas fa-long-arrow-right",
+            "library": "element-helper-icons"
+          },
+          "enable_video_button": "yes",
+          "video_button_text": "Watch Video",
+          "video_button_link": {
+            "url": "http://themexriver.com/wp/nimo/plybtn-video-1.mp4",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_social_links": "yes",
+          "social_links": [
+            {
+              "_id": "e35109b",
+              "social_icon": {
+                "value": "fab fa-whatsapp",
+                "library": "fa-brands"
+              }
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-x-twitter",
+                "library": "fa-brands"
+              },
+              "_id": "3551449"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-linkedin-in",
+                "library": "fa-brands"
+              },
+              "_id": "598a4b1"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-instagram",
+                "library": "fa-brands"
+              },
+              "_id": "f6f7ef3"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-facebook-f",
+                "library": "fa-brands"
+              },
+              "_id": "76309fb"
+            }
+          ],
+          "image_1": {
+            "url": "/images/h1-bg-img-1.webp",
+            "id": 48,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/h1-img-1.webp",
+            "id": 49,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_3": {
+            "url": "/images/h1-img-1.webp",
+            "id": 49,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "moving_icon": {
+            "value": "fas fa-asterisk",
+            "library": "fa-solid"
+          },
+          "moving_text_1": [
+            {
+              "text": "Moving Text 1",
+              "_id": "28e3375"
+            }
+          ],
+          "moving_text_2": [
+            {
+              "text": "Moving Text 2",
+              "_id": "d32c7bd"
+            }
+          ],
+          "moving_text_3": [
+            {
+              "text": "Moving Text 3",
+              "_id": "8797a2f"
+            }
+          ],
+          "gallery_heading_1": "Gallery Heading",
+          "gallery_heading_2": "Gallery Heading",
+          "title_tag": "h1"
+        },
+        "elements": [],
+        "widgetType": "tx_hero_section"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e6006e9",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "219fdf8",
+        "elType": "widget",
+        "settings": {
+          "title": "Heading Title",
+          "description": "The opportunity to work abroad is a popular prospect, one",
+          "button_info_text": "Button Info Text",
+          "button_text": "Button Text",
+          "image_1": {
+            "url": "/images/p1-bg-img.webp",
+            "id": 54,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "brand_heading": "Trusted by the biggest brand worldwide",
+          "brands_image": [
+            {
+              "id": 55,
+              "url": "/images/p1-logo-5.webp"
+            },
+            {
+              "id": 56,
+              "url": "/images/p1-logo-1.webp"
+            },
+            {
+              "id": 57,
+              "url": "/images/p1-logo-2.webp"
+            },
+            {
+              "id": 58,
+              "url": "/images/p1-logo-3.webp"
+            },
+            {
+              "id": 59,
+              "url": "/images/p1-logo-4.webp"
+            }
+          ],
+          "brand_images": [],
+          "brand_images_2": []
+        },
+        "elements": [],
+        "widgetType": "tx_brand"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "1c84889",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "c9c3051",
+        "elType": "widget",
+        "settings": {
+          "sub_title": "{01} About Us",
+          "title": "Elevating brands through digital design.",
+          "description": "At <b>Nimo Digital</b> Agency, we don’t just build websites — we create digital experiences that inspire, engage, and convert.",
+          "short_description": "We believe great design starts with great ideas. That’s why we work closely with our clients to understand their vision, goals, and audience.",
+          "video_text": "Watch Video",
+          "feature_lists": [
+            {
+              "feature_text": "Feature Text",
+              "_id": "890600b"
+            }
+          ],
+          "feature_boxs": [
+            {
+              "_id": "8f84270",
+              "f_box_title": "Our Mission",
+              "f_box_text": "To help brands stand out online, tell their story, and drive\n                                        measurable success through digital creativity and smart strategy.",
+              "list_icon": {
+                "value": "flaticon flaticon-mission-statement",
+                "library": "element-helper-flaticon"
+              },
+              "f_box_count": "1"
+            },
+            {
+              "f_box_title": "Our Vision",
+              "f_box_text": "To inspire innovation through design, technology, and storytelling — making every\n                                        digital interaction meaningful.",
+              "list_icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "cf477a5",
+              "f_box_count": "1"
+            },
+            {
+              "f_box_title": "Collaborate with Us",
+              "f_box_text": "Let’s build something extraordinary — from stunning\n                                        visuals to interactive modern creative innovative experiences.",
+              "list_icon": {
+                "value": "flaticon flaticon-people",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "fba75d5",
+              "f_box_count": "1"
+            }
+          ],
+          "button_text": "Get in touch",
+          "exp_year": "10",
+          "exp_title": "Years of Experience",
+          "contact_label": "Contact Us",
+          "contact_info": "(+256) 3254 2598",
+          "skill_lists": [],
+          "client_number": "1000",
+          "client_number_prefix": "+",
+          "client_title": "Happy Clients",
+          "count_heading": "Count Heading",
+          "count_boxs": [],
+          "tags": [
+            {
+              "tag_text": "Tag Text",
+              "_id": "4080520"
+            }
+          ],
+          "rating_title": "Average Rating",
+          "gallery_heading": "Gallery Heading",
+          "author_name": "Arnold Vain",
+          "author_designation": "Founder & CEO",
+          "social_links": [
+            {
+              "_id": "49414bd",
+              "social_icon": {
+                "value": "fab fa-x-twitter",
+                "library": "fa-brands"
+              }
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-instagram",
+                "library": "fa-brands"
+              },
+              "_id": "8a0d7f8"
+            },
+            {
+              "_id": "131fcba",
+              "social_icon": {
+                "value": "fab fa-linkedin-in",
+                "library": "fa-brands"
+              }
+            }
+          ],
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg.webp",
+            "id": 69,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg.webp",
+            "id": 69,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "author_image": {
+            "url": "/images/t1-author-1.webp",
+            "id": 74,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "author_link": {
+            "url": "/teams/alfred-noble/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_social_links": "yes",
+          "button_link": {
+            "url": "/contact/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_button_icon": "yes",
+          "button_icon": {
+            "value": " fas fa-long-arrow-right",
+            "library": "element-helper-icons"
+          },
+          "image_3": {
+            "url": "/images/a1-bg-shape-1.webp",
+            "id": 126,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "testimonials": []
+        },
+        "elements": [],
+        "widgetType": "tx_about"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "41c570a",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "c81e441",
+        "elType": "widget",
+        "settings": {
+          "contact_info_sub_title": "Contact Info",
+          "contact_info_title": "Contact Info Title",
+          "contact_shortcode": "[contact-form-7 id=\"123\" title=\"Contact form 1\"]",
+          "sub_title": "{02} Our Services",
+          "title": "We area offing the best solutions",
+          "description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
+          "txTab_lists": [
+            {
+              "_id": "18968ad",
+              "tab_icon": {
+                "value": "flaticon flaticon-irregular",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-1.webp",
+                "id": 100,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "1. Brand Identity & Graphics",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              }
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-2.webp",
+                "id": 108,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "2. Web & App Development",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "73e79d9"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-3.webp",
+                "id": 107,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "3. UI/UX Design",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "3063957"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-4.webp",
+                "id": 106,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "4. Digital Strategy & Marketing",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "884e453"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-5.webp",
+                "id": 105,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "5. E-Commerce Solutions",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "faea8b0"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-6.webp",
+                "id": 104,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "6. User Research & Personas",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "e8a3fd3"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-7.webp",
+                "id": 103,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "7. Visual Identity Design",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "96ddac3"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-7.webp",
+                "id": 103,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "8. Stationery & Print Design",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "284a30e"
+            }
+          ],
+          "button_info_text": "Button Info Text",
+          "button_text": "Button Text"
+        },
+        "elements": [],
+        "widgetType": "tx_tabs"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "ab81ba5",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "1278426",
+        "elType": "widget",
+        "settings": {
+          "top_sub_title": "{02} Our Services",
+          "top_title_1": "We area offing the best solutions",
+          "top_title_2": "Heading Title",
+          "top_description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
+          "sub_title": "{03} Why Choose Us?",
+          "title": "We area offing the best solutions",
+          "description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "count_boxs": [],
+          "service_slide_boxs": [
+            {
+              "_id": "19eedab",
+              "image_1": {
+                "url": "/images/c1-bg-shape-1.webp",
+                "id": 117,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/c1-img-1.webp",
+                "id": 119,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "icon": {
+                "value": "flaticon flaticon-electricity",
+                "library": "element-helper-flaticon"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "layout_style": "style_2",
+              "_id": "21c183d",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/c1-img-2.webp",
+                "id": 120,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "icon": {
+                "value": "flaticon flaticon-electricity",
+                "library": "element-helper-flaticon"
+              },
+              "title": "15+ Years Experiences",
+              "description": "Over 15 years of experience delivering innovative digital solutions.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "layout_style": "style_3",
+              "_id": "75dece9",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            }
+          ],
+          "button_text": "Button Text",
+          "author_shape_image": {
+            "url": "/images/c1-bg-shape-2.webp",
+            "id": 121,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "author_info": "99+ Happy client",
+          "info_icon": {
+            "value": "flaticon flaticon-time",
+            "library": "element-helper-flaticon"
+          },
+          "info_title": "7 day turnaround",
+          "info_image_1": {
+            "url": "/images/c1-bg-shape-2.webp",
+            "id": 121,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "info_image_2": {
+            "url": "/images/c1-clock.webm",
+            "id": 122,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "author_images": [
+            {
+              "id": 74,
+              "url": "/images/t1-author-1.webp"
+            },
+            {
+              "id": 131,
+              "url": "/images/t1-author-4.webp"
+            },
+            {
+              "id": 132,
+              "url": "/images/t1-author-2.webp"
+            },
+            {
+              "id": 133,
+              "url": "/images/t1-author-3.webp"
+            }
+          ],
+          "big_title": "Big Heading Title"
+        },
+        "elements": [],
+        "widgetType": "tx_service_section"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4df0527",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0924a1e",
+        "elType": "widget",
+        "settings": {
+          "top_sub_title": "{04} FunFacts",
+          "top_title_1": "\"A streamlined",
+          "top_title_2": "solution build to power business.\"",
+          "top_description": "We’re more than pixels and code — we’re coffee lovers, cat people, meme sharers, and design geeks.",
+          "sub_title": "{02} Our Services",
+          "title": "We area offing the best solutions",
+          "description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "count_boxs": [
+            {
+              "_id": "0ae9fd4",
+              "count_number": 95,
+              "count_prefix": "%",
+              "count_title": "Customer satisfaction"
+            },
+            {
+              "count_number": 12,
+              "count_prefix": "+",
+              "count_title": "Years of experience",
+              "_id": "0ebb912"
+            },
+            {
+              "count_number": 22,
+              "count_prefix": "+",
+              "count_title": "Projects completed",
+              "_id": "036eda0"
+            }
+          ],
+          "service_slide_boxs": [
+            {
+              "_id": "19eedab",
+              "image_1": {
+                "url": "/images/p1-img-1.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/digital-strategy-marketing/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/p1-img-2.webp",
+                "id": 145,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/digital-strategy-marketing/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "_id": "e267f0d",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/p1-img-3.webp",
+                "id": 146,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/digital-strategy-marketing/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "_id": "f62c21d",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "image_1": {
+                "url": "/images/p1-img-4.webp",
+                "id": 143,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/c1-handshake-2.webm",
+                "id": 118,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Seamless Collaboration",
+              "description": "Transparent communication and feedback loops at every stage of the project.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/digital-strategy-marketing/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "_id": "5666f87",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            }
+          ],
+          "button_text": "More Portfolio",
+          "author_shape_image": {
+            "url": "/images/c1-bg-shape-2.webp",
+            "id": 121,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "author_info": "99+ Happy client",
+          "info_icon": {
+            "value": "flaticon flaticon-time",
+            "library": "element-helper-flaticon"
+          },
+          "info_title": "7 day turnaround",
+          "info_image_1": {
+            "url": "/images/c1-bg-shape-2.webp",
+            "id": 121,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "info_image_2": {
+            "url": "/images/c1-clock.webm",
+            "id": 122,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "design_style": "style_2",
+          "button_link": {
+            "url": "/our-services/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "author_images": [
+            {
+              "id": 74,
+              "url": "/images/t1-author-1.webp"
+            },
+            {
+              "id": 131,
+              "url": "/images/t1-author-4.webp"
+            },
+            {
+              "id": 132,
+              "url": "/images/t1-author-2.webp"
+            },
+            {
+              "id": 133,
+              "url": "/images/t1-author-3.webp"
+            }
+          ],
+          "top_title_image": {
+            "url": "/images/haha-emoji.webp",
+            "id": 157,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_3": {
+            "url": "/images/p1-bg-shape-1.webp",
+            "id": 159,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "big_title": "Big Heading Title"
+        },
+        "elements": [],
+        "widgetType": "tx_service_section"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "f3216db",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "95336d1",
+        "elType": "widget",
+        "settings": {
+          "sub_title": "{06} Testimonial",
+          "title": "The best reviews from clients",
+          "description": "Don’t just take our word for it — see what our clients think.",
+          "short_description": "The opportunity to work abroad is a popular prospect, one",
+          "testimonial_lists": [
+            {
+              "_id": "edec0ac",
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-1.webp",
+                "id": 74,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              }
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-2.webp",
+                "id": 132,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "0665e14"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-3.webp",
+                "id": 133,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "b06c02c"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-4.webp",
+                "id": 131,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "a8d7bde"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-5.webp",
+                "id": 170,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "37a2c09"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-6.webp",
+                "id": 172,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "d434795"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-7.webp",
+                "id": 173,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "3ebf4a6"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-8.webp",
+                "id": 174,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "71f67b9"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-9.webp",
+                "id": 175,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "d1455fd"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-10.webp",
+                "id": 176,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "65398ae"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-11.webp",
+                "id": 166,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "5f98dc5"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-1.webp",
+                "id": 74,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "8b1b958"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-2.webp",
+                "id": 132,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "668d9d3"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-3.webp",
+                "id": 133,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "5ae74c7"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-4.webp",
+                "id": 131,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "5700689"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-5.webp",
+                "id": 170,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "b5649e7"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-6.webp",
+                "id": 172,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "5dc01a2"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-7.webp",
+                "id": 173,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "3957fd4"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-8.webp",
+                "id": 174,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "4200449"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-9.webp",
+                "id": 175,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "14d3362"
+            },
+            {
+              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
+              "name": "— James R.",
+              "designation": "Startup Founder",
+              "author_image": {
+                "url": "/images/t1-author-10.webp",
+                "id": 176,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              },
+              "_id": "cd1ffd8"
+            }
+          ],
+          "button_text": "More Review",
+          "rating_number": "4.8",
+          "rating_text": "Most of our clients are satisfied: Share your review",
+          "info_text": "The opportunity to work abroad is a popular prospect, one that many people aspire to.",
+          "image_1": {
+            "url": "/images/p1-bg-shape-1.webp",
+            "id": 159,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "button_link": {
+            "url": "/testimonial/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_button_icon": "yes",
+          "button_icon": {
+            "value": " fas fa-long-arrow-right",
+            "library": "element-helper-icons"
+          },
+          "gallery_heading": "Gallery Heading"
+        },
+        "elements": [],
+        "widgetType": "tx_testimonial"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "93509aa",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "c60c190",
+        "elType": "widget",
+        "settings": {
+          "design_style": "style_3",
+          "top_sub_title": "Sub Title",
+          "top_title_1": "Heading Title",
+          "top_title_2": "Heading Title",
+          "top_description": "The opportunity to work abroad is a popular prospect, one",
+          "sub_title": "{07} Steps",
+          "title": "3 easy steps to get started",
+          "description": "Our three-step method blends strategy and creativity while keeping you in the loop",
+          "count_boxs": [],
+          "service_slide_boxs": [
+            {
+              "_id": "880f41b",
+              "design_style": "style_3",
+              "title": "<span>01.</span>Discovery & Strategy",
+              "description": "We start by understanding your goals, audience, and challenges. Together, we define the vision and roadmap.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "sub_title": "3-5 days",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "design_style": "style_3",
+              "title": "<span>02.</span>Design & Prototype",
+              "description": "Our team crafts modern, user-friendly designs that reflect your brand and engage your users.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "count": 2,
+              "sub_title": "1 week",
+              "_id": "471167b",
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "design_style": "style_3",
+              "title": "<span>03.</span>Launch & Support",
+              "description": "After launch, we stay by your side with updates, optimizations, and long-term support.",
+              "link_text": "Read More",
+              "tags": "<p>Web Design</p>",
+              "count": 3,
+              "sub_title": "4-7 days",
+              "_id": "7f745d4",
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            }
+          ],
+          "button_text": "Button Text",
+          "author_info": "Default Text",
+          "info_title": "Info Title",
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "big_title": "Big Heading Title"
+        },
+        "elements": [],
+        "widgetType": "tx_service_section"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "5363c0b",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "overflow": "hidden",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "ed5430e",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "7cc310b",
+            "elType": "widget",
+            "settings": {
+              "image_1": {
+                "url": "/images/a1-bg-shape-bg-2.webp",
+                "id": 115,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "image_2": {
+                "url": "/images/a1-bg-shape-bg-2.webp",
+                "id": 115,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "sub_title": "{08} Team member",
+              "title": "Driven by talent & creative souls",
+              "description": "At Nimo Digital Agency, we believe great work starts with great people. Our diverse team of creatives, strategists, and developers work together.",
+              "team_members": [
+                {
+                  "_id": "24f359b",
+                  "team_image": {
+                    "url": "/images/t1-img-1.webp",
+                    "id": 200,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-2.webp",
+                    "id": 199,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "8479e02",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-3.webp",
+                    "id": 201,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "2fdb03a",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-4.webp",
+                    "id": 202,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "d9982ac",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-5.webp",
+                    "id": 203,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "4601c2b",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                },
+                {
+                  "team_image": {
+                    "url": "/images/t1-img-6.webp",
+                    "id": 198,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                  },
+                  "name": "Ava Wilson",
+                  "designation": "Visual Designer",
+                  "link": {
+                    "url": "/teams/alfred-noble/",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  },
+                  "button_text": "Read More",
+                  "social_links": [
+                    {
+                      "social_icon": {
+                        "value": "fab fa-facebook-f",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "080579c"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-x-twitter",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "c50f539"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-dribbble",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "59e9753"
+                    },
+                    {
+                      "social_icon": {
+                        "value": "fab fa-behance",
+                        "library": "fa-brands"
+                      },
+                      "social_link": {
+                        "url": "#0"
+                      },
+                      "_id": "5ea3dd8"
+                    }
+                  ],
+                  "activeItemIndex": 1,
+                  "description": "Alfred helps brands find their voice and visual identity, crafting systems that are memorable, meaningful, and consistent.",
+                  "_id": "4e68f9c",
+                  "button_icon": {
+                    "value": " fas fa-long-arrow-right",
+                    "library": "element-helper-icons"
+                  }
+                }
+              ],
+              "button_left_text": "More of our",
+              "button_text": "Team member",
+              "social_links": [],
+              "enable_button_icon": "yes",
+              "big_title_1": "Expert",
+              "big_title_2": "Team",
+              "button_icon": {
+                "value": "flaticon flaticon-right-arrow",
+                "library": "element-helper-flaticon"
+              }
+            },
+            "elements": [],
+            "widgetType": "tx_team_lists"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "ceff105",
+        "elType": "container",
+        "settings": {
+          "content_width": "full",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "c984413",
+            "elType": "widget",
+            "settings": {
+              "design_style": "style_2",
+              "contact_info_sub_title": "Response time: 1 hours",
+              "contact_info_title": "Tell details about your project",
+              "contact_shortcode": "[contact-form-7 id=\"f34c924\" title=\"Contact Form H_1\"]",
+              "sub_title": "{09} FAQs",
+              "title": "Learn more from FAQs",
+              "description": "The opportunity to work abroad is a popular prospect, one",
+              "txTab_lists": [
+                {
+                  "_id": "d83e80d",
+                  "tab_title": "General Ask",
+                  "tab_heading_1": "Tab Heading",
+                  "description_1": "Description",
+                  "feature_lists_1": "Feature",
+                  "button_text": "Button Text",
+                  "design_style": "style_2",
+                  "template": "248",
+                  "resolved_template": {
+                    "widgetType": "tx_faq",
+                    "settings": {
+                      "sub_title": "Sub Title",
+                      "title": "Heading Title",
+                      "title_2": "Know more about us by FAQ",
+                      "description": "The opportunity to work abroad is a popular prospect, one",
+                      "faq_lists": [
+                        {
+                          "title": "What services do you offer?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "_id": "9a6f99e",
+                          "is_active": "yes",
+                          "count": "01"
+                        },
+                        {
+                          "title": "How long does a website project take?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "02",
+                          "_id": "71f3685"
+                        },
+                        {
+                          "title": "Do you work with international clients?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "03",
+                          "_id": "83684e3"
+                        },
+                        {
+                          "title": "Can you redesign my existing website?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "04",
+                          "_id": "5434294"
+                        },
+                        {
+                          "title": "How do I get started?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "05",
+                          "_id": "e898567"
+                        },
+                        {
+                          "title": "Will my website be mobile-friendly?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "06",
+                          "_id": "d4f610d"
+                        },
+                        {
+                          "title": "Do you provide ongoing support after the launch?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "07",
+                          "_id": "5c8d9ac"
+                        }
+                      ],
+                      "button_text": "Button Text"
+                    }
+                  }
+                },
+                {
+                  "tab_title": "Job Career",
+                  "tab_heading_1": "Tab Heading",
+                  "description_1": "Description",
+                  "feature_lists_1": "Feature",
+                  "button_text": "Button Text",
+                  "design_style": "style_2",
+                  "is_active": "",
+                  "template": "248",
+                  "_id": "cfe8bf4",
+                  "resolved_template": {
+                    "widgetType": "tx_faq",
+                    "settings": {
+                      "sub_title": "Sub Title",
+                      "title": "Heading Title",
+                      "title_2": "Know more about us by FAQ",
+                      "description": "The opportunity to work abroad is a popular prospect, one",
+                      "faq_lists": [
+                        {
+                          "title": "What services do you offer?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "_id": "9a6f99e",
+                          "is_active": "yes",
+                          "count": "01"
+                        },
+                        {
+                          "title": "How long does a website project take?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "02",
+                          "_id": "71f3685"
+                        },
+                        {
+                          "title": "Do you work with international clients?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "03",
+                          "_id": "83684e3"
+                        },
+                        {
+                          "title": "Can you redesign my existing website?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "04",
+                          "_id": "5434294"
+                        },
+                        {
+                          "title": "How do I get started?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "05",
+                          "_id": "e898567"
+                        },
+                        {
+                          "title": "Will my website be mobile-friendly?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "06",
+                          "_id": "d4f610d"
+                        },
+                        {
+                          "title": "Do you provide ongoing support after the launch?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "07",
+                          "_id": "5c8d9ac"
+                        }
+                      ],
+                      "button_text": "Button Text"
+                    }
+                  }
+                },
+                {
+                  "tab_title": "Pricing & Plan",
+                  "tab_heading_1": "Tab Heading",
+                  "description_1": "Description",
+                  "feature_lists_1": "Feature",
+                  "button_text": "Button Text",
+                  "design_style": "style_2",
+                  "is_active": "",
+                  "template": "248",
+                  "_id": "5065b08",
+                  "resolved_template": {
+                    "widgetType": "tx_faq",
+                    "settings": {
+                      "sub_title": "Sub Title",
+                      "title": "Heading Title",
+                      "title_2": "Know more about us by FAQ",
+                      "description": "The opportunity to work abroad is a popular prospect, one",
+                      "faq_lists": [
+                        {
+                          "title": "What services do you offer?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "_id": "9a6f99e",
+                          "is_active": "yes",
+                          "count": "01"
+                        },
+                        {
+                          "title": "How long does a website project take?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "02",
+                          "_id": "71f3685"
+                        },
+                        {
+                          "title": "Do you work with international clients?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "03",
+                          "_id": "83684e3"
+                        },
+                        {
+                          "title": "Can you redesign my existing website?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "04",
+                          "_id": "5434294"
+                        },
+                        {
+                          "title": "How do I get started?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "05",
+                          "_id": "e898567"
+                        },
+                        {
+                          "title": "Will my website be mobile-friendly?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "06",
+                          "_id": "d4f610d"
+                        },
+                        {
+                          "title": "Do you provide ongoing support after the launch?",
+                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
+                          "is_active": "",
+                          "count": "07",
+                          "_id": "5c8d9ac"
+                        }
+                      ],
+                      "button_text": "Button Text"
+                    }
+                  }
+                }
+              ],
+              "button_info_text": "Button Info Text",
+              "button_text": "Button Text",
+              "enable_description": "",
+              "image_1": {
+                "url": "/images/a1-bg-shape-1.webp",
+                "id": 126,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              }
+            },
+            "elements": [],
+            "widgetType": "tx_tabs"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "bb3cfa9",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "ae2a4c9",
+        "elType": "widget",
+        "settings": {
+          "sub_title": "{10} Latest Insights",
+          "title": "Here's what we've been up to",
+          "description": "Explore industry insights, expert tips, and creative inspiration from the Nimo team. Our blog is where we share knowledge, ideas, and what’s next in digital.",
+          "button_text": "More blog",
+          "post_by_label": "By",
+          "read_more_text": "Read More",
+          "excerpt_length": 20,
+          "selected_list_post": [
+            {
+              "_id": "58d6e8b",
+              "image": {
+                "url": "/images/b1-img-1.webp",
+                "id": 1184,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Nimo Wins \"Top creative Agency\" Award",
+              "post_id": "1181"
+            },
+            {
+              "image": {
+                "url": "/images/b1-img-2.webp",
+                "id": 1185,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
+              "post_id": "1179",
+              "_id": "e47e763"
+            },
+            {
+              "image": {
+                "url": "/images/b1-img-3.webp",
+                "id": 1183,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Nimo at the Digital future Summit 2025",
+              "post_id": "1177",
+              "_id": "6421be6"
+            }
+          ],
+          "selected_list_page": [],
+          "selected_list_product": [],
+          "selected_list_tf-header": [],
+          "selected_list_tf-footer": [],
+          "selected_list_services": [],
+          "selected_list_teams": [],
+          "image_1": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/a1-bg-shape-bg-2.webp",
+            "id": 115,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "button_link": {
+            "url": "/blog/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_button_icon": "yes",
+          "button_icon": {
+            "value": " fas fa-long-arrow-right",
+            "library": "element-helper-icons"
+          },
+          "show_post_by": "selected",
+          "category_meta": "yes",
+          "resolved_posts": [
+            {
+              "id": "1181",
+              "title": "Nimo Wins \"Top creative Agency\" Award",
+              "image": "/images/b1-img-1.webp",
+              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "date": "2024-01-10",
+              "category": "Clock Fly Strategy",
+              "slug": "nimo-wins-top-creative-agency-award"
+            },
+            {
+              "id": "1179",
+              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
+              "image": "/images/b1-img-2.webp",
+              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "date": "2024-01-10",
+              "category": "Email Marketing",
+              "slug": "nimo-launches-10-wordpress-themes-on-themeforest"
+            },
+            {
+              "id": "1177",
+              "title": "Nimo at the Digital future Summit 2025",
+              "image": "/images/b1-img-3.webp",
+              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "date": "2024-01-10",
+              "category": "Clock Fly Strategy",
+              "slug": "nimo-at-the-digital-future-summit-2025"
+            }
+          ]
+        },
+        "elements": [],
+        "widgetType": "tx_post_grid"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a7904bc",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "ceb43a4",
+        "elType": "widget",
+        "settings": {
+          "big_title": "Contact Us",
+          "sub_title": "{11} Contact Us",
+          "title": "Want to work with us? Let's connect",
+          "description": "The opportunity to work abroad is a popular prospect, one",
+          "short_description": "The opportunity to work abroad is a popular prospect, one",
+          "image_1": {
+            "url": "/images/p1-bg-shape-1.webp",
+            "id": 159,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_2": {
+            "url": "/images/c1-img-1-1.webp",
+            "id": 1189,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_3": {
+            "url": "/images/left-arrow.webp",
+            "id": 1190,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_4": {
+            "url": "/images/favicon-icon.webp",
+            "id": 1191,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "contact_infos": [
+            {
+              "title": "Office Address",
+              "_id": "9fba4be",
+              "icon": {
+                "value": "flaticon flaticon-maps-and-flags",
+                "library": "element-helper-flaticon"
+              },
+              "text": "<p class=\"nm-p-1 disc\">12/A, New Booston Tower, New York, US</p>"
+            },
+            {
+              "title": "24/7 Support",
+              "icon": {
+                "value": "flaticon flaticon-costumer-service",
+                "library": "element-helper-flaticon"
+              },
+              "text": "<p class=\"nm-p-1 disc\"><b>Call</b><a href=\"#\" aria-label=\"name\">+324 5678 4321</a></p><p class=\"nm-p-1 disc\"><b>Mail</b><a href=\"#\" aria-label=\"name\">info@gmail.com</a></p>",
+              "_id": "e7816ba"
+            },
+            {
+              "title": "Business Hours",
+              "icon": {
+                "value": "far fa-clock",
+                "library": "fa-regular"
+              },
+              "text": "<p class=\"nm-p-1 disc\">Mon - Sat 8 AM - 10 PM</p><p class=\"nm-p-1 disc\">Sun 11 AM - 5 PM</p>",
+              "_id": "70ab9a1"
+            }
+          ],
+          "form_heading_1": "Contact Form Heading",
+          "form_description": "Contact Form Description",
+          "form_shortcode": "Default Text",
+          "button_text": "Get In touch",
+          "button_link": {
+            "url": "/contact/",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "enable_button_icon": "yes",
+          "button_icon": {
+            "value": "flaticon flaticon-return",
+            "library": "element-helper-flaticon"
+          },
+          "social_links": [
+            {
+              "_id": "7b24829",
+              "social_icon": {
+                "value": "fab fa-x-twitter",
+                "library": "fa-brands"
+              },
+              "social_title": "Twitter"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-behance",
+                "library": "fa-brands"
+              },
+              "social_title": "Behance",
+              "_id": "08a28ad"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-dribbble",
+                "library": "fa-brands"
+              },
+              "social_title": "Dribble",
+              "_id": "7b890be"
+            },
+            {
+              "social_icon": {
+                "value": "fab fa-instagram",
+                "library": "fa-brands"
+              },
+              "social_title": "Instagram",
+              "_id": "dda2eee"
+            }
+          ]
+        },
+        "elements": [],
+        "widgetType": "tx_contact_info"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e4af60d",
+    "elType": "container",
+    "settings": {
+      "content_width": "full",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "40916c0",
+        "elType": "widget",
+        "settings": {
+          "sub_title": "Sub Title",
+          "title": "Heading Title",
+          "description": "The opportunity to work abroad is a popular prospect, one",
+          "count_prefix": "+",
+          "count_title": "Happy Clients",
+          "count_description": "The opportunity to work abroad is a popular prospect, one",
+          "enable_count_box": "yes",
+          "count_boxs": [
+            {
+              "_id": "24770f0",
+              "count_number": 390,
+              "count_prefix": "+",
+              "count_description": "Delivered projects"
+            },
+            {
+              "count_number": 70,
+              "count_prefix": "%",
+              "count_description": "Returning Clients",
+              "_id": "2173de8"
+            },
+            {
+              "count_number": 90,
+              "count_prefix": "%",
+              "count_description": "Success Rate",
+              "_id": "4ae2f69"
+            },
+            {
+              "count_number": 6,
+              "count_prefix": "%",
+              "count_description": "Years of Experience",
+              "_id": "0b39dac"
+            },
+            {
+              "count_number": 70,
+              "count_prefix": "%",
+              "count_description": "Returning Clients",
+              "_id": "c779b90"
+            },
+            {
+              "count_number": 90,
+              "count_prefix": "%",
+              "count_description": "Success Rate",
+              "_id": "52f4f73"
+            },
+            {
+              "count_number": 6,
+              "count_prefix": "+",
+              "count_description": "Years of Experience",
+              "_id": "7b32a5d"
+            },
+            {
+              "count_number": 390,
+              "count_prefix": "+",
+              "count_description": "Delivered projects",
+              "_id": "2a2b860"
+            }
+          ]
+        },
+        "elements": [],
+        "widgetType": "tx_count_box"
+      }
+    ],
+    "isInner": false
+  }
+]

@@ -1,0 +1,21 @@
+@keyframes marqueeLeft {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.marquee {
+  display: flex;
+  width: max-content;
+  animation: marqueeLeft var(--marquee-duration, 30s) linear infinite;
+}
+
+/* Matches `.wa_marquee_left`'s `pauseOnHover: true` (jquery.marquee.min.js
+   option) - the brand logo strip pauses under the cursor; the count-box
+   stats strip uses `pauseOnHover: false` and doesn't get this class. */
+.pauseOnHover:hover {
+  animation-play-state: paused;
+}
