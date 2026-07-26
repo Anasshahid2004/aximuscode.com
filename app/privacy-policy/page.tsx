@@ -3,7 +3,7 @@ import PageBreadcrumb from "@/app/components/shared/PageBreadcrumb";
 import styles from "./PrivacyPolicy.module.css";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - AXIMUSCODE",
+  title: "AXIMUSCODE - Privacy Policy",
 };
 
 // Ports the demo data's "Privacy Policy" page (post_id 3, content.xml) -

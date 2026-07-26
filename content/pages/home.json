@@ -37,7 +37,7 @@
           "enable_video_button": "yes",
           "video_button_text": "Watch Video",
           "video_button_link": {
-            "url": "http://themexriver.com/wp/nimo/plybtn-video-1.mp4",
+            "url": "http://themexriver.com/wp/AXIMUS/plybtn-video-1.mp4",
             "is_external": "",
             "nofollow": "",
             "custom_attributes": ""
@@ -216,7 +216,7 @@
         "settings": {
           "sub_title": "{01} About Us",
           "title": "Elevating brands through digital design.",
-          "description": "At <b>Nimo Digital</b> Agency, we don’t just build websites — we create digital experiences that inspire, engage, and convert.",
+          "description": "At <b>AXIMUS Digital</b> Agency, we don’t just build websites — we create digital experiences that inspire, engage, and convert.",
           "short_description": "We believe great design starts with great ideas. That’s why we work closely with our clients to understand their vision, goals, and audience.",
           "video_text": "Watch Video",
           "feature_lists": [
@@ -1681,7 +1681,7 @@
               },
               "sub_title": "{08} Team member",
               "title": "Driven by talent & creative souls",
-              "description": "At Nimo Digital Agency, we believe great work starts with great people. Our diverse team of creatives, strategists, and developers work together.",
+              "description": "At AXIMUS Digital Agency, we believe great work starts with great people. Our diverse team of creatives, strategists, and developers work together.",
               "team_members": [
                 {
                   "_id": "24f359b",
@@ -2387,7 +2387,7 @@
         "settings": {
           "sub_title": "{10} Latest Insights",
           "title": "Here's what we've been up to",
-          "description": "Explore industry insights, expert tips, and creative inspiration from the Nimo team. Our blog is where we share knowledge, ideas, and what’s next in digital.",
+          "description": "Explore industry insights, expert tips, and creative inspiration from the AXIMUS team. Our blog is where we share knowledge, ideas, and what’s next in digital.",
           "button_text": "More blog",
           "post_by_label": "By",
           "read_more_text": "Read More",
@@ -2402,7 +2402,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "title": "Nimo Wins \"Top creative Agency\" Award",
+              "title": "AXIMUS Wins \"Top creative Agency\" Award",
               "post_id": "1181"
             },
             {
@@ -2413,7 +2413,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
+              "title": "AXIMUS Launches 10+ Wordpress Themes On themeForest",
               "post_id": "1179",
               "_id": "e47e763"
             },
@@ -2425,7 +2425,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "title": "Nimo at the Digital future Summit 2025",
+              "title": "AXIMUS at the Digital future Summit 2025",
               "post_id": "1177",
               "_id": "6421be6"
             }
@@ -2466,30 +2466,30 @@
           "resolved_posts": [
             {
               "id": "1181",
-              "title": "Nimo Wins \"Top creative Agency\" Award",
+              "title": "AXIMUS Wins \"Top creative Agency\" Award",
               "image": "/images/b1-img-1.webp",
               "excerpt": "",
               "date": "2024-01-10",
               "category": "Clock Fly Strategy",
-              "slug": "nimo-wins-top-creative-agency-award"
+              "slug": "AXIMUS-wins-top-creative-agency-award"
             },
             {
               "id": "1179",
-              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
+              "title": "AXIMUS Launches 10+ Wordpress Themes On themeForest",
               "image": "/images/b1-img-2.webp",
               "excerpt": "",
               "date": "2024-01-10",
               "category": "Email Marketing",
-              "slug": "nimo-launches-10-wordpress-themes-on-themeforest"
+              "slug": "AXIMUS-launches-10-wordpress-themes-on-themeforest"
             },
             {
               "id": "1177",
-              "title": "Nimo at the Digital future Summit 2025",
+              "title": "AXIMUS at the Digital future Summit 2025",
               "image": "/images/b1-img-3.webp",
               "excerpt": "",
               "date": "2024-01-10",
               "category": "Clock Fly Strategy",
-              "slug": "nimo-at-the-digital-future-summit-2025"
+              "slug": "AXIMUS-at-the-digital-future-summit-2025"
             }
           ]
         },

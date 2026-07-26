@@ -3,7 +3,7 @@ import PageBreadcrumb from "@/app/components/shared/PageBreadcrumb";
 import styles from "@/app/privacy-policy/PrivacyPolicy.module.css";
 
 export const metadata: Metadata = {
-  title: "Terms & Conditions - AXIMUSCODE",
+  title: "AXIMUSCODE - Terms & Conditions",
 };
 
 // The demo content has no dedicated "Terms and Conditions" page (unlike
