@@ -42,9 +42,16 @@ export default function SmoothScroll() {
     gsap.ticker.add(onTick);
     gsap.ticker.lagSmoothing(0);
 
+    // Exposed so other components (BackToTop) can drive Lenis's virtual
+    // scroll position directly instead of calling the native
+    // window.scrollTo, which would desync from what Lenis thinks the
+    // scroll position is and cause a visible jump/fight on the next tick.
+    (window as unknown as { __lenis?: Lenis }).__lenis = lenis;
+
     return () => {
       gsap.ticker.remove(onTick);
       lenis.destroy();
+      delete (window as unknown as { __lenis?: Lenis }).__lenis;
     };
   }, []);
 

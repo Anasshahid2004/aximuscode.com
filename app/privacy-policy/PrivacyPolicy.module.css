@@ -1,0 +1,42 @@
+.wrap {
+  padding: 120px 0;
+}
+
+.content {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.content h2 {
+  color: #fff;
+  font-family: var(--nm-font-1);
+  font-size: 28px;
+  font-weight: 600;
+  margin: 48px 0 18px;
+}
+
+.content h2:first-child {
+  margin-top: 0;
+}
+
+.content p {
+  color: var(--nm-clr-p-1);
+  font-size: 17px;
+  line-height: 1.8;
+  margin: 0 0 16px;
+}
+
+.content strong {
+  color: var(--nm-clr-pr-1);
+  font-weight: 600;
+}
+
+@media (max-width: 767px) {
+  .wrap {
+    padding: 70px 0;
+  }
+
+  .content h2 {
+    font-size: 22px;
+  }
+}

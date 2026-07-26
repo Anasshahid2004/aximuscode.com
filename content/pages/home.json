@@ -1004,7 +1004,7 @@
           },
           "design_style": "style_2",
           "button_link": {
-            "url": "/our-services/",
+            "url": "/portfolio/",
             "is_external": "",
             "nofollow": "",
             "custom_attributes": ""
@@ -2394,7 +2394,7 @@
               "id": "1181",
               "title": "Nimo Wins \"Top creative Agency\" Award",
               "image": "/images/b1-img-1.webp",
-              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "excerpt": "",
               "date": "2024-01-10",
               "category": "Clock Fly Strategy",
               "slug": "nimo-wins-top-creative-agency-award"
@@ -2403,7 +2403,7 @@
               "id": "1179",
               "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
               "image": "/images/b1-img-2.webp",
-              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "excerpt": "",
               "date": "2024-01-10",
               "category": "Email Marketing",
               "slug": "nimo-launches-10-wordpress-themes-on-themeforest"
@@ -2412,7 +2412,7 @@
               "id": "1177",
               "title": "Nimo at the Digital future Summit 2025",
               "image": "/images/b1-img-3.webp",
-              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
+              "excerpt": "",
               "date": "2024-01-10",
               "category": "Clock Fly Strategy",
               "slug": "nimo-at-the-digital-future-summit-2025"

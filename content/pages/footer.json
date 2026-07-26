@@ -136,7 +136,7 @@
             }
           ],
           "copyright_text": "© All rights reserved <span class=\"copyright-year\"></span>",
-          "footer_bottom_right_text": "Make with\n                            <i class=\"fa-solid fa-heart\"></i>\n                            by\n                            <a href=\"\" aria-label=\"rapidquad\">Rapid Quad</a>",
+          "footer_bottom_right_text": "Make with\n                            <i class=\"fa-solid fa-heart\"></i>\n                            by\n                            <a href=\"https://themexriver.com\" aria-label=\"themexriver\">Themexriver</a>",
           "bottom_menu_links": [
             {
               "_id": "114d727",
@@ -188,7 +188,7 @@
             {
               "link_text": "Privacy Policy",
               "link_url": {
-                "url": "/our-team/",
+                "url": "/privacy-policy/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -196,9 +196,9 @@
               "_id": "8b5a442"
             },
             {
-              "link_text": "404",
+              "link_text": "Terms & Conditions",
               "link_url": {
-                "url": "/404",
+                "url": "/terms-and-conditions/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""

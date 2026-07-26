@@ -1,0 +1,132 @@
+.section {
+  padding: 150px 0 110px;
+  position: relative;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 70px;
+}
+
+.headerLeft {
+  max-width: 560px;
+}
+
+.description {
+  max-width: 420px;
+  margin: 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 30px;
+}
+
+.card {
+  position: relative;
+  display: block;
+  border-radius: 16px;
+  overflow: hidden;
+  aspect-ratio: 3 / 4;
+  background-color: var(--nm-clr-black-3);
+}
+
+.cardImgWrap {
+  position: absolute;
+  inset: 0;
+}
+
+.cardImgWrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s var(--nm-cube-1, ease);
+}
+
+.card:hover .cardImgWrap img {
+  transform: scale(1.08);
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(17, 17, 17, 0) 40%, rgba(17, 17, 17, 0.92) 100%);
+  pointer-events: none;
+}
+
+.content {
+  position: absolute;
+  left: 24px;
+  right: 24px;
+  bottom: 24px;
+  transition: transform 0.4s ease;
+}
+
+.card:hover .content {
+  transform: translateY(-52px);
+}
+
+.name {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 4px;
+}
+
+.name a {
+  color: inherit;
+}
+
+.designation {
+  color: var(--nm-clr-pr-1);
+  font-size: 15px;
+  margin: 0;
+}
+
+.socials {
+  display: flex;
+  gap: 10px;
+  margin-top: 16px;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.35s ease, transform 0.35s ease;
+}
+
+.card:hover .socials {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.socials a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #fff;
+  font-size: 13px;
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+.socials a:hover {
+  background-color: var(--nm-clr-pr-1);
+  border-color: var(--nm-clr-pr-1);
+  color: var(--nm-clr-black-2);
+}
+
+@media (max-width: 767px) {
+  .section {
+    padding: 90px 0 60px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+  }
+}

@@ -15,6 +15,7 @@ import SiteFooter from "@/app/components/layout/SiteFooter";
 import ScrollReveal from "@/app/components/shared/ScrollReveal";
 import SmoothScroll from "@/app/components/shared/SmoothScroll";
 import CursorEffects from "@/app/components/shared/CursorEffects";
+import BackToTop from "@/app/components/shared/BackToTop";
 import headerData from "@/content/pages/header.json";
 import footerData from "@/content/pages/footer.json";
 import { findFirstWidgetSettings } from "@/app/lib/render-elementor";
@@ -56,6 +57,7 @@ export default function RootLayout({
         <SmoothScroll />
         <ScrollReveal />
         <CursorEffects />
+        <BackToTop />
       </body>
     </html>
   );
