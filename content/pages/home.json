@@ -19,8 +19,8 @@
         "elType": "widget",
         "settings": {
           "sub_title": "{ Best Award Winner 2025 }",
-          "title": "<span>AXIMUS</span>",
-          "big_title": "Digital Agency",
+          "title": "<span>AXIMUSCODE</span>",
+          "big_title": "Software Agency",
           "description": "We design digital solutions that elevate your brand and boost conversions. Don’t settle for a site. Build a powerful platform.",
           "button_text": "About Our Agency",
           "button_link": {
@@ -88,14 +88,14 @@
             "source": "library"
           },
           "image_2": {
-            "url": "/images/h1-img-1.webp",
+            "url": "/images/robot-img.webp",
             "id": 49,
             "size": "",
             "alt": "",
             "source": "library"
           },
           "image_3": {
-            "url": "/images/h1-img-1.webp",
+            "url": "/images/robot-img.webp",
             "id": 49,
             "size": "",
             "alt": "",
@@ -2567,7 +2567,7 @@
                 "value": "flaticon flaticon-costumer-service",
                 "library": "element-helper-flaticon"
               },
-              "text": "<p class=\"nm-p-1 disc\"><b>Call</b><a href=\"#\" aria-label=\"name\">+324 5678 4321</a></p><p class=\"nm-p-1 disc\"><b>Mail</b><a href=\"#\" aria-label=\"name\">info@gmail.com</a></p>",
+              "text": "<p class=\"nm-p-1 disc\"><b>Call</b><a href=\"#\" aria-label=\"name\">+324 5678 4321</a></p><p class=\"nm-p-1 disc\"><b>Mail</b><a href=\"#\" aria-label=\"name\">careers.aximuscode@gmail.com</a></p>",
               "_id": "e7816ba"
             },
             {

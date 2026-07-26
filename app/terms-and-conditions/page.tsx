@@ -3,7 +3,7 @@ import PageBreadcrumb from "@/app/components/shared/PageBreadcrumb";
 import styles from "@/app/privacy-policy/PrivacyPolicy.module.css";
 
 export const metadata: Metadata = {
-  title: "Terms & Conditions - Nimo",
+  title: "Terms & Conditions - AXIMUSCODE",
 };
 
 // The demo content has no dedicated "Terms and Conditions" page (unlike
@@ -19,14 +19,14 @@ export default function TermsAndConditionsPage() {
           <div className={styles.content}>
             <h2>Introduction</h2>
             <p>
-              These terms and conditions outline the rules and regulations for the use of Nimo&rsquo;s website. By
+              These terms and conditions outline the rules and regulations for the use of AXIMUSCODE&rsquo;s website. By
               accessing this website, we assume you accept these terms and conditions in full. Do not continue to
-              use Nimo&rsquo;s website if you do not accept all of the terms and conditions stated on this page.
+              use AXIMUSCODE&rsquo;s website if you do not accept all of the terms and conditions stated on this page.
             </p>
 
             <h2>Use of the Site</h2>
             <p>
-              Unless otherwise stated, Nimo and/or its licensors own the intellectual property rights for all
+              Unless otherwise stated, AXIMUSCODE and/or its licensors own the intellectual property rights for all
               material on this website. All intellectual property rights are reserved. You may view and/or print
               pages from the website for your own personal use, subject to restrictions set in these terms and
               conditions.
@@ -42,20 +42,20 @@ export default function TermsAndConditionsPage() {
             <p>
               In these terms and conditions, &ldquo;your content&rdquo; means any material (including text, images,
               audio material, video material, or audio-visual material) that you submit to this website, for
-              whatever purpose. By submitting content, you grant Nimo a worldwide, non-exclusive, royalty-free
+              whatever purpose. By submitting content, you grant AXIMUSCODE a worldwide, non-exclusive, royalty-free
               license to use, reproduce, and display that content.
             </p>
 
             <h2>No Warranties</h2>
             <p>
               This website is provided &ldquo;as is,&rdquo; without any representations or warranties, express or
-              implied. Nimo makes no representations or warranties in relation to this website or the information
+              implied. AXIMUSCODE makes no representations or warranties in relation to this website or the information
               and materials provided on it.
             </p>
 
             <h2>Limitation of Liability</h2>
             <p>
-              Nimo will not be liable to you in relation to the content of, or use of, or otherwise in connection
+              AXIMUSCODE will not be liable to you in relation to the content of, or use of, or otherwise in connection
               with this website for any indirect, special, or consequential loss, or for any loss of business,
               revenue, profits, or anticipated savings.
             </p>

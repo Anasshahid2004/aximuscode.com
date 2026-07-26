@@ -3,7 +3,7 @@ import PageBreadcrumb from "@/app/components/shared/PageBreadcrumb";
 import styles from "./PrivacyPolicy.module.css";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - Nimo",
+  title: "Privacy Policy - AXIMUSCODE",
 };
 
 // Ports the demo data's "Privacy Policy" page (post_id 3, content.xml) -
@@ -20,7 +20,7 @@ export default function PrivacyPolicyPage() {
           <div className={styles.content}>
             <h2>Who we are</h2>
             <p>
-              <strong>Suggested text: </strong>Our website address is: https://nimo-agency.example.
+              <strong>Suggested text: </strong>Our website address is: https://AXIMUSCODE-agency.example.
             </p>
 
             <h2>Comments</h2>
