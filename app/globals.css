@@ -89,6 +89,33 @@
   }
 }
 
+/* "99+ Happy client" avatar stack (nm-choose-1-author): nimo-core.css's
+   `flex-wrap: wrap` means the 4th avatar wraps to its own row on narrow
+   mobile widths instead of staying in the overlapping single-row stack,
+   left-aligned under the first 3. Mobile-only: show just the first 3,
+   centered, instead of letting a 4th spill onto its own line. */
+@media (max-width: 767px) {
+  .nm-choose-1-author {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    width: 100%;
+  }
+  .nm-choose-1-author .author-img:nth-child(n + 4) {
+    display: none;
+  }
+}
+
+/* Bootstrap's base `.dropdown-menu` rule (bootstrap.min.css) sets
+   `position: absolute`, meant for the desktop hover dropdown - nimo-core.css
+   never overrides that for the mobile offcanvas nav's reused `.dropdown-menu`
+   class, so a tapped-open submenu (Team/Shop/Blog under Pages) rendered as a
+   floating overlay on top of the gallery/social sections below instead of
+   pushing them down in normal document flow. */
+.mobile-main-navigation .dropdown-menu {
+  position: static;
+}
+
 /* nimo-core.css references this icon as `url(../img/breadcrumb/icon.svg)`,
    relative to the CSS file's own location - that resolves against
    app/styles/img/breadcrumb/icon.svg, which doesn't exist (the theme's img

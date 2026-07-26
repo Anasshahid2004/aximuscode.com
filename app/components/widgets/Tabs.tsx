@@ -47,7 +47,14 @@ function ServicesTabs({ settings }: { settings: Settings }) {
   // instead fires *after* that first paint, so the new pane briefly
   // flashes its old (already revealed) state before flipping hidden and
   // back - a flicker instead of a clean entrance.
+  // Clicking the already-active tab is a no-op guard, not just standard
+  // UX politeness: `revealed` still flips to false below regardless of
+  // whether `active` actually changes, but the reveal effect is keyed on
+  // `[active]` - if the value doesn't change, the effect never re-runs to
+  // flip `revealed` back to true, leaving the pane permanently hidden
+  // after a second click on the same tab.
   function selectTab(i: number) {
+    if (i === active) return;
     setActive(i);
     setRevealed(false);
   }

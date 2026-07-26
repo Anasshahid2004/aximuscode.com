@@ -107,6 +107,16 @@ export default function CursorEffects() {
       function handleOut(e: MouseEvent) {
         const target = (e.target as HTMLElement)?.closest<HTMLElement>(`.${wrapper}`);
         if (!target) return;
+        // Native `mouseout` bubbles from every child-element boundary
+        // crossing, not just from actually leaving `target` - moving the
+        // cursor between the wrapper's own children (canvas, images,
+        // buttons, text) fires this constantly while still hovering the
+        // wrapper, snapping the magnetic offset back to 0,0 almost as soon
+        // as `handleMove` sets it. Only reset once the pointer has
+        // genuinely left the wrapper (relatedTarget isn't inside it too),
+        // matching `mouseleave` semantics.
+        const relatedTarget = e.relatedTarget as HTMLElement | null;
+        if (relatedTarget && target.contains(relatedTarget)) return;
         const els = inner ? Array.from(target.querySelectorAll<HTMLElement>(`.${inner}`)) : [target];
         els.forEach((el) => {
           gsap.to(el, { x: 0, y: 0, duration: 1, ease: "elastic.out(1,0.3)" });

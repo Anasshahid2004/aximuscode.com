@@ -23,6 +23,15 @@ export default function SmoothScroll() {
       easing: (t: number) => 1 - Math.pow(1 - t, 4),
       smoothWheel: true,
       syncTouch: false,
+      // Lenis captures every wheel event on window by default, including
+      // ones over nested scrollable containers (ThinScrollbar's tab list,
+      // the mobile offcanvas menu's own `overflow: scroll` panel - see
+      // nimo-core.css `.wa-offcanvas-area`), so the browser's native scroll
+      // never gets a chance to run there - it scrolled the background page
+      // through the fixed offcanvas panel instead of scrolling the panel's
+      // own content. Let native scroll handle anything inside a
+      // `.mCSB_container` or `.wa-offcanvas-area`.
+      prevent: (node) => node.closest(".mCSB_container, .wa-offcanvas-area") !== null,
     });
 
     lenis.on("scroll", ScrollTrigger.update);

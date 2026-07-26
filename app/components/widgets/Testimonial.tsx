@@ -63,8 +63,59 @@ export default function Testimonial({ settings }: { settings: Settings }) {
   }, [list.length]);
 
   function selectAvatar(i: number) {
+    if (draggedRef.current) return;
     setActive(i);
     mainSwiperRef.current?.slideTo(i);
+  }
+
+  // Drag-to-rotate: not part of the original theme (nimo-custom.js's
+  // tx_testimonial() only rotates this avatar circle via scroll) - added on
+  // request, reusing the same rotation the scroll scrub already drives so a
+  // press-and-drag feels like manually scrubbing that same effect.
+  //
+  // A plain click still needs to select that avatar (selectAvatar above), so
+  // rotation only engages after a genuine long-press: movement is ignored
+  // until the pointer's been held LONG_PRESS_MS, not just past a distance
+  // threshold - a bare distance check misfired on ordinary clicks near an
+  // avatar's edge, where the natural pointerdown->pointerup hand jitter alone
+  // exceeded it.
+  const LONG_PRESS_MS = 350;
+  const dragStartX = useRef(0);
+  const dragStartRotation = useRef(0);
+  const longPressActive = useRef(false);
+  const longPressTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const draggedRef = useRef(false);
+
+  function onPointerDown(e: React.PointerEvent<HTMLDivElement>) {
+    const wrapper = wrapperRef.current;
+    if (!wrapper) return;
+    draggedRef.current = false;
+    longPressActive.current = false;
+    dragStartX.current = e.clientX;
+    dragStartRotation.current = (gsap.getProperty(wrapper, "rotation") as number) || 0;
+    (e.target as HTMLElement).setPointerCapture(e.pointerId);
+    longPressTimer.current = setTimeout(() => {
+      longPressActive.current = true;
+    }, LONG_PRESS_MS);
+  }
+
+  function onPointerMove(e: React.PointerEvent<HTMLDivElement>) {
+    if (!longPressActive.current) return;
+    const wrapper = wrapperRef.current;
+    if (!wrapper) return;
+    const delta = e.clientX - dragStartX.current;
+    if (Math.abs(delta) > 3) draggedRef.current = true;
+    gsap.set(wrapper, { rotation: dragStartRotation.current + delta / 4 });
+  }
+
+  function onPointerUp() {
+    if (longPressTimer.current) clearTimeout(longPressTimer.current);
+    longPressActive.current = false;
+    // Cleared on a delay so the click handler on the avatar just released
+    // under the pointer still sees `draggedRef` true and skips selection.
+    setTimeout(() => {
+      draggedRef.current = false;
+    }, 0);
   }
 
   return (
@@ -97,7 +148,14 @@ export default function Testimonial({ settings }: { settings: Settings }) {
           style={settings.image_1?.url ? { backgroundImage: `url(${settings.image_1.url})` } : undefined}
         >
           <div className="nm-testimonial-1-preview">
-            <div className="nm-testimonial-1-preview-slider">
+            <div
+              className="nm-testimonial-1-preview-slider"
+              style={{ cursor: "grab", touchAction: "pan-y" }}
+              onPointerDown={onPointerDown}
+              onPointerMove={onPointerMove}
+              onPointerUp={onPointerUp}
+              onPointerCancel={onPointerUp}
+            >
               <div className="swiper-wrapper" ref={wrapperRef}>
                 {list.map((item, i) => (
                   <div

@@ -1,8 +1,9 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import PrimaryButton from "@/app/components/shared/PrimaryButton";
 import SplitHoverLink from "@/app/components/shared/SplitHoverLink";
+import ElementorIcon from "@/app/components/shared/ElementorIcon";
 import { on, type Settings } from "@/app/lib/types";
 
 type NavLink = { label: string; href: string; children?: NavLink[] };
@@ -10,61 +11,8 @@ type NavLink = { label: string; href: string; children?: NavLink[] };
 const NAV_LINKS: NavLink[] = [
   { label: "Home", href: "/" },
   { label: "About", href: "/about-us" },
-  {
-    label: "Services",
-    href: "/our-services",
-    children: [
-      { label: "Services", href: "/our-services" },
-      { label: "Service Details", href: "/services/digital-strategy-marketing" },
-    ],
-  },
-  {
-    label: "Pages",
-    href: "/our-team",
-    children: [
-      {
-        label: "Team",
-        href: "/our-team",
-        // The original's own menu nests both a self-link back to the list
-        // page ("Team") and the one team-member detail page ("Alfred
-        // Noble") under this dropdown, not just the detail page.
-        children: [
-          { label: "Team", href: "/our-team" },
-          { label: "Alfred Noble", href: "/teams/alfred-noble" },
-        ],
-      },
-      {
-        label: "Shop",
-        href: "#",
-        // WooCommerce Shop/Cart/Checkout/Shop Details are out of scope for
-        // this static rebuild (no product data, cart state, or payments)
-        // - kept in the nav to match the original's menu structure, but
-        // left as placeholder links until the shop itself is built.
-        children: [
-          { label: "Shop", href: "#" },
-          { label: "Shop Details", href: "#" },
-          { label: "Cart", href: "#" },
-          { label: "Checkout", href: "#" },
-        ],
-      },
-      {
-        label: "Blog",
-        href: "/blog",
-        // Same self-link + detail pattern as Team - "Blog Details" (a
-        // single post page) isn't built yet, points at the blog list page
-        // for now.
-        children: [
-          { label: "Blog", href: "/blog" },
-          { label: "Blog Details", href: "/blog" },
-        ],
-      },
-      { label: "Price Page", href: "/price-page" },
-      { label: "FAQs page", href: "/faqs-page" },
-      { label: "Choose Us", href: "/choose-us" },
-      { label: "Work Process", href: "/work-process" },
-      { label: "Testimonial", href: "/testimonial" },
-    ],
-  },
+  { label: "Services", href: "/our-services" },
+  { label: "Portfolio", href: "/portfolio" },
   { label: "Contact", href: "/contact" },
 ];
 
@@ -143,38 +91,155 @@ function NavItem({ link, depth = 0 }: { link: NavLink; depth?: number }) {
   );
 }
 
-export default function SiteHeader({ settings }: { settings: Settings }) {
-  const headerRef = useRef<HTMLElement>(null);
-  useStickyHeader(headerRef);
+// Mobile offcanvas nav item - ports "mobile-dropdown-function" from
+// nimo-core.js: unlike the desktop dropdown (hover-driven), a submenu here
+// only opens on tapping its own `.dropdown-btn` chevron, independent of
+// tapping the link itself (which navigates as normal).
+function MobileNavItem({ link, onNavigate }: { link: NavLink; onNavigate: () => void }) {
+  const [open, setOpen] = useState(false);
+  return (
+    <li className={link.children ? "dropdown" : undefined}>
+      <a href={link.href} onClick={onNavigate}>
+        {link.label}
+      </a>
+      {link.children && (
+        <>
+          <span
+            className={`dropdown-btn ${open ? "active" : ""}`}
+            onClick={() => setOpen((v) => !v)}
+          >
+            <i className="fa-solid fa-angle-right" />
+          </span>
+          <ul className={`dropdown-menu ${open ? "active" : ""}`} style={{ display: open ? "block" : "none" }}>
+            {link.children.map((child) => (
+              <MobileNavItem key={child.label} link={child} onNavigate={onNavigate} />
+            ))}
+          </ul>
+        </>
+      )}
+    </li>
+  );
+}
+
+// Ports "offcanvas-function" from nimo-core.js: the toggle button only
+// added an "active" class to `.wa-overly`/`.offcanvas_box_active` - but
+// neither the overlay nor the offcanvas panel itself existed anywhere in
+// this rebuild, only the button did, so there was nothing to open. Escape,
+// clicking the overlay/close button, or clicking any link inside the panel
+// all close it, matching the original 1:1.
+function MobileOffcanvas({ settings, open, onClose }: { settings: Settings; open: boolean; onClose: () => void }) {
+  useEffect(() => {
+    if (!open) return;
+    function onKeyDown(e: KeyboardEvent) {
+      if (e.key === "Escape") onClose();
+    }
+    document.addEventListener("keydown", onKeyDown);
+    return () => document.removeEventListener("keydown", onKeyDown);
+  }, [open, onClose]);
 
   return (
-    <header ref={headerRef} className="nm-header-1-area tx-header wa_sticky_header">
-      <div className="nm-header-1-container">
-        <div className="nm-header-1-wrap">
-          {settings.logo?.url && (
-            <a href="/" aria-label="Nimo" className="tx-logo nm-header-1-logo">
-              <img src={settings.logo.url} alt="Nimo" />
-            </a>
-          )}
+    <>
+      <div className={`wa-overly ${open ? "active" : ""}`} onClick={onClose} />
+      <div className={`wa-offcanvas-area ${open ? "active" : ""}`}>
+        <div className="wa-offcanvas-wrap">
+          <div className="wa-offcanvas-top">
+            {(settings.mobile_logo?.url || settings.logo?.url) && (
+              <a className="wa-offcanvas-top-logo tx-logo" aria-label="Nimo" href="/">
+                <img src={settings.mobile_logo?.url || settings.logo?.url} alt="Nimo" />
+              </a>
+            )}
+            <button className="wa-offcanvas-close offcanvas_box_close" aria-label="Close menu" onClick={onClose}>
+              <span />
+              <span />
+            </button>
+          </div>
 
-          <nav className="nm-main-navigation d-none d-xl-block">
-            <ul className="nav navbar-nav btn-split-right" id="main-nav">
+          <nav className="mobile-main-navigation mb-50 d-block d-xl-none">
+            <ul className="wa-ul">
               {NAV_LINKS.map((link) => (
-                <NavItem key={link.href} link={link} />
+                <MobileNavItem key={link.href} link={link} onNavigate={onClose} />
               ))}
             </ul>
           </nav>
 
-          <div className="nm-header-1-action-link">
-            {on(settings.enable_button) && (
-              <PrimaryButton text={settings.button_text} link={settings.button_link} icon={settings.button_icon} />
-            )}
-            <button type="button" aria-label="Menu" className="nm-offcanvas-btn-1 offcanvas_toggle d-inline-flex d-xl-none">
-              <i className="fa-solid fa-bars" />
-            </button>
-          </div>
+          {settings.gallerys?.length > 0 && (
+            <div className="wa-offcanvas-gallery">
+              {settings.gallery_heading && <h5 className="wa-offcanvas-gallery-title">{settings.gallery_heading}</h5>}
+              <div className="wa-offcanvas-gallery-grid">
+                {settings.gallerys.map((img: any) => (
+                  <div className="wa-offcanvas-gallery-item wa-fix wa-img-cover" key={img.id}>
+                    <img src={img.url} alt="" />
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {settings.social_links?.length > 0 && (
+            <div className="wa-offcanvas-social">
+              {settings.social_heading && <h5 className="wa-offcanvas-social-title">{settings.social_heading}</h5>}
+              <div className="wa-offcanvas-social-flex d-flex">
+                {settings.social_links.map((list: any) => (
+                  <a key={list._id} className="wa-offcanvas-social-link" href={list.social_link?.url || "#"} aria-label="social link">
+                    <ElementorIcon icon={list.social_icon} />
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       </div>
-    </header>
+    </>
+  );
+}
+
+export default function SiteHeader({ settings }: { settings: Settings }) {
+  const headerRef = useRef<HTMLElement>(null);
+  useStickyHeader(headerRef);
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  return (
+    <>
+      <header ref={headerRef} className="nm-header-1-area tx-header wa_sticky_header">
+        <div className="nm-header-1-container">
+          <div className="nm-header-1-wrap">
+            {settings.logo?.url && (
+              <a href="/" aria-label="Nimo" className="tx-logo nm-header-1-logo">
+                <img src={settings.logo.url} alt="Nimo" />
+              </a>
+            )}
+
+            <nav className="nm-main-navigation d-none d-xl-block">
+              <ul className="nav navbar-nav btn-split-right" id="main-nav">
+                {NAV_LINKS.map((link) => (
+                  <NavItem key={link.href} link={link} />
+                ))}
+              </ul>
+            </nav>
+
+            <div className="nm-header-1-action-link">
+              {on(settings.enable_button) && (
+                <PrimaryButton text={settings.button_text} link={settings.button_link} icon={settings.button_icon} />
+              )}
+              <button
+                type="button"
+                aria-label="Menu"
+                className="nm-offcanvas-btn-1 offcanvas_toggle d-inline-flex d-xl-none"
+                onClick={() => setMenuOpen(true)}
+              >
+                <i className="fa-solid fa-bars" />
+              </button>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      {/* Sibling of <header>, not a child - see nimo-default-header.php.
+          Nesting it inside `.wa_sticky_header` meant the sticky-scroll
+          `transform: translateY(-190%)` (see useStickyHeader below) that
+          hides the header also dragged the open offcanvas panel off-screen
+          with it, since a child inherits its parent's transform. */}
+      <MobileOffcanvas settings={settings} open={menuOpen} onClose={() => setMenuOpen(false)} />
+    </>
   );
 }

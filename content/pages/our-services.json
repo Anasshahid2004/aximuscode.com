@@ -40,7 +40,7 @@
               },
               "tab_title": "1. Brand Identity & Graphics",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "description_1": "<b>We craft bold, memorable identities</b> that capture who you are and connect with the people you want to reach — from logo systems to full brand guidelines that keep every touchpoint consistent.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -48,7 +48,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "feature_lists_1": "Logo & logotype design\nColor palette & typography systems\nBrand guideline documents\nSocial media brand kits\nPackaging & merchandise design",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -76,7 +76,7 @@
               },
               "tab_title": "2. Web & App Development",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "description_1": "<b>We build fast, scalable products</b> engineered for real-world performance — from marketing sites to full web and mobile applications that grow with your business.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -84,7 +84,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "feature_lists_1": "Custom website development\nWeb & mobile app development\nCMS & headless architecture\nThird-party API integration\nSpeed & performance optimization",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -113,7 +113,7 @@
               },
               "tab_title": "3. UI/UX Design",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "description_1": "<b>We design intuitive, user-first interfaces</b> backed by real research — turning complex flows into experiences people actually enjoy using.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -121,7 +121,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "feature_lists_1": "User research & journey mapping\nWireframing & prototyping\nInteraction design\nUsability testing\nDesign systems & component libraries",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -150,7 +150,7 @@
               },
               "tab_title": "4. Digital Strategy & Marketing",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "description_1": "<b>We turn insight into action</b> with data-driven strategies that grow your audience, sharpen your positioning, and drive measurable results.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -158,7 +158,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "feature_lists_1": "Market & competitor analysis\nSEO & content strategy\nSocial media marketing\nPaid ad campaigns\nAnalytics & performance reporting",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -187,7 +187,7 @@
               },
               "tab_title": "5. E-Commerce Solutions",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
+              "description_1": "<b>We build online stores that convert</b> — combining seamless shopping experiences with reliable checkout, inventory, and payment infrastructure.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -195,7 +195,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
+              "feature_lists_1": "Storefront design & development\nPayment gateway integration\nInventory & order management\nConversion rate optimization\nMulti-channel selling",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -208,117 +208,6 @@
                 "library": "element-helper-icons"
               },
               "_id": "faea8b0"
-            },
-            {
-              "is_active": "",
-              "tab_icon": {
-                "value": "flaticon flaticon-path",
-                "library": "element-helper-flaticon"
-              },
-              "tab_image": {
-                "url": "/images/s1-img-6.webp",
-                "id": 104,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "tab_title": "6. User Research & Personas",
-              "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
-              "feature_lists_image": {
-                "url": "/images/star-1.webp",
-                "id": 101,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
-              "button_text": "Read more",
-              "button_link": {
-                "url": "/contact/",
-                "is_external": "",
-                "nofollow": "",
-                "custom_attributes": ""
-              },
-              "button_icon": {
-                "value": " fas fa-long-arrow-right",
-                "library": "element-helper-icons"
-              },
-              "_id": "e8a3fd3"
-            },
-            {
-              "is_active": "",
-              "tab_icon": {
-                "value": "flaticon flaticon-path",
-                "library": "element-helper-flaticon"
-              },
-              "tab_image": {
-                "url": "/images/s1-img-7.webp",
-                "id": 103,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "tab_title": "7. Visual Identity Design",
-              "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
-              "feature_lists_image": {
-                "url": "/images/star-1.webp",
-                "id": 101,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
-              "button_text": "Read more",
-              "button_link": {
-                "url": "/contact/",
-                "is_external": "",
-                "nofollow": "",
-                "custom_attributes": ""
-              },
-              "button_icon": {
-                "value": " fas fa-long-arrow-right",
-                "library": "element-helper-icons"
-              },
-              "_id": "96ddac3"
-            },
-            {
-              "is_active": "",
-              "tab_icon": {
-                "value": "flaticon flaticon-path",
-                "library": "element-helper-flaticon"
-              },
-              "tab_image": {
-                "url": "/images/s1-img-7.webp",
-                "id": 103,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "tab_title": "8. Stationery & Print Design",
-              "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We go beyond logos</b> — building complete visual identities that tell your story and reflect your values. From color palettes to typography, tone of voice to brand guidelines, we shape every element to ensure your brand stands out across every touching.",
-              "feature_lists_image": {
-                "url": "/images/star-1.webp",
-                "id": 101,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "feature_lists_1": "Logo design\nTypography & color systems\nBrand guidelines\nArt Direction\nMotion Identity",
-              "button_text": "Read more",
-              "button_link": {
-                "url": "/contact/",
-                "is_external": "",
-                "nofollow": "",
-                "custom_attributes": ""
-              },
-              "button_icon": {
-                "value": " fas fa-long-arrow-right",
-                "library": "element-helper-icons"
-              },
-              "_id": "284a30e"
             }
           ],
           "button_info_text": "Button Info Text",
