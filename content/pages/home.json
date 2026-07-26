@@ -19,7 +19,7 @@
         "elType": "widget",
         "settings": {
           "sub_title": "{ Best Award Winner 2025 }",
-          "title": "<span>Nimo</span>",
+          "title": "<span>AXIMUS</span>",
           "big_title": "Digital Agency",
           "description": "We design digital solutions that elevate your brand and boost conversions. Don’t settle for a site. Build a powerful platform.",
           "button_text": "About Our Agency",
@@ -564,6 +564,80 @@
                 "library": "element-helper-icons"
               },
               "_id": "faea8b0"
+            },
+             {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-5.webp",
+                "id": 105,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "6. Cloud Solutions",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We build online stores that convert</b> — combining seamless shopping experiences with reliable checkout, inventory, and payment infrastructure.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Storefront design & development\nPayment gateway integration\nInventory & order management\nConversion rate optimization\nMulti-channel selling",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "faea8b1"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "flaticon flaticon-path",
+                "library": "element-helper-flaticon"
+              },
+              "tab_image": {
+                "url": "/images/s1-img-5.webp",
+                "id": 105,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "7. Graphics Designing",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We build online stores that convert</b> — combining seamless shopping experiences with reliable checkout, inventory, and payment infrastructure.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Storefront design & development\nPayment gateway integration\nInventory & order management\nConversion rate optimization\nMulti-channel selling",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "faea8b1"
             }
           ],
           "button_info_text": "Button Info Text",
