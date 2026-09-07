@@ -8,11 +8,14 @@ import { on } from "@/app/lib/types";
 // usual Elementor default-omission) still means enabled.
 export default function ElementorButton({ settings }: { settings: any }) {
   const animated = on(settings.enable_animation ?? "yes");
+  const margin = settings._margin;
+
   return (
     <div
       className={animated ? `wow ${settings.wow_animation || "fadeIn"}` : undefined}
       data-wow-duration={settings.wow_duration ? `${settings.wow_duration}ms` : undefined}
       data-wow-delay={settings.wow_delay ? `${settings.wow_delay}ms` : undefined}
+      style={margin ? { margin: `${margin.top || 0}${margin.unit} ${margin.right || 0}${margin.unit} ${margin.bottom || 0}${margin.unit} ${margin.left || 0}${margin.unit}` } : undefined}
     >
       <PrimaryButton text={settings.button_text} link={settings.button_link} icon={settings.selected_icon} />
     </div>
