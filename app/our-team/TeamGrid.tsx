@@ -4,6 +4,12 @@ import ElementorIcon from "@/app/components/shared/ElementorIcon";
 import SplitTitle from "@/app/components/shared/SplitTitle";
 import styles from "./TeamGrid.module.css";
 
+// Member names come through as HTML (they can carry <br> or <span>), which
+// is fine inside the card but not as an aria-label.
+function stripTags(html?: string): string {
+  return (html || "").replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+}
+
 // A dedicated, page-specific design for /our-team - the homepage's
 // TeamLists widget (nm-team-1-*) is a 3-at-a-time Swiper teaser, not meant
 // to show a full roster. This page instead lays every member out in a
@@ -39,13 +45,26 @@ export default function TeamGrid({
 
         <div className={styles.grid}>
           {members.map((member, i) => (
-            <a href={member.link?.url || "#"} className={styles.card} key={member._id || i}>
+            // The card is a <div>, not an <a>: each member's social icons are
+            // links of their own, and HTML forbids nesting anchors. The
+            // browser's parser silently hoists an inner <a> out of its parent,
+            // which left the client DOM shaped differently from the server
+            // HTML - React reported "In HTML, <a> cannot be a descendant of
+            // <a>" and threw away the whole hydrated tree. The member link is
+            // now a stretched overlay anchor covering the card, with the
+            // socials sitting above it.
+            <div className={styles.card} key={member._id || i}>
               {member.team_image?.url && (
                 <div className={styles.cardImgWrap}>
                   <img src={member.team_image.url} alt={member.name || ""} />
                 </div>
               )}
               <div className={styles.overlay} />
+              <a
+                href={member.link?.url || "#"}
+                className={styles.cardLink}
+                aria-label={stripTags(member.name) || "Team member"}
+              />
               <div className={styles.content}>
                 {member.name && (
                   <h5 className={styles.name} dangerouslySetInnerHTML={{ __html: member.name }} />
@@ -56,19 +75,14 @@ export default function TeamGrid({
                 {(member.social_links || []).length > 0 && (
                   <div className={styles.socials}>
                     {member.social_links.map((s: any, si: number) => (
-                      <a
-                        key={s._id || si}
-                        href={s.social_link?.url || "#"}
-                        aria-label="social link"
-                        onClick={(e) => e.stopPropagation()}
-                      >
+                      <a key={s._id || si} href={s.social_link?.url || "#"} aria-label="social link">
                         <ElementorIcon icon={s.social_icon} />
                       </a>
                     ))}
                   </div>
                 )}
               </div>
-            </a>
+            </div>
           ))}
         </div>
       </div>

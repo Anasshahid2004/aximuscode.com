@@ -20,11 +20,11 @@ export default function FaqContactForm() {
       <div className="button-x-author wow fadeInUp2" data-wow-delay=".1s">
         <div className="author">
           <div className="author-img wa-img-cover wa-fix">
-            <img src="/images/t1-author-1.webp" alt="Liven Geo" />
+            <img src="/images/hr-1.webp" alt="Rayyan" />
           </div>
           <div className="content">
-            <h4 className="nm-h-1 author-name">Liven Geo</h4>
-            <p className="nm-p-1 author-dg">Support Developer</p>
+            <h4 className="nm-h-1 author-name">Rayyan</h4>
+            <p className="nm-p-1 author-dg">HR Manager</p>
           </div>
         </div>
         <button type="submit" className="nm-pr-btn-1 has-v2 wa_magnetic_btn_2">

@@ -33,13 +33,13 @@
             "source": "library"
           },
           "footer_logo": {
-            "url": "/images/logo-1.webp",
+            "url": "/images/logo-2-18-18.webp",
             "id": 1461,
             "size": "",
             "alt": "",
             "source": "library"
           },
-          "footer_description": "Creative minds building impactful digital experience.",
+          "footer_description": "Building smart digital solutions that help businesses grow, simplify operations, and create meaningful digital experiences.",
           "contact_info_icon": {
             "value": "fas fa-envelope",
             "library": "fa-solid"

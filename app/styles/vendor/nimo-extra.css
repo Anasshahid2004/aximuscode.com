@@ -493,6 +493,111 @@
 	margin-bottom: 16px;
 	border-radius: 10px;
 }
+
+/* Custom Software Development */
+.custom-software-icon {
+    display: inline-block !important;
+    width: 55px !important;
+    height: 55px !important;
+    background-image: url('/images/cus.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0 !important;
+    line-height: 0 !important;
+}
+
+/* Web & App Development */
+.custom-web-app-icon {
+    display: inline-block !important;
+    width: 55px !important;
+    height: 55px !important;
+    background-image: url('/images/2.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0 !important;
+    line-height: 0 !important;
+}
+
+/* Cloud Solution */
+.cloud-solution-icon {
+    display: inline-block !important;
+    width: 55px !important;
+    height: 55px !important;
+    background-image: url('/images/3.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0 !important;
+    line-height: 0 !important;
+}
+
+/* UI UX DESIGN */
+.ui-ux-design-icon {
+    display: inline-block !important;
+    width: 55px !important;
+    height: 55px !important;
+    background-image: url('/images/4.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0 !important;
+    line-height: 0 !important;
+}
+
+/* Digital Marketing */
+.digital-marketing-icon {
+    display: inline-block !important;
+    width: 55px !important;
+    height: 55px !important;
+    background-image: url('/images/5.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0 !important;
+    line-height: 0 !important;
+}
+
+/* AI-Powered Advertising */
+.ai-powered-advertising-icon {
+    display: inline-block !important;
+    width: 55px !important;
+    height: 55px !important;
+    background-image: url('/images/6.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0 !important;
+    line-height: 0 !important;
+}
+
+/* WordPress Development */
+.wordpress-development-icon {
+    display: inline-block !important;
+    width: 55px !important;
+    height: 55px !important;
+    background-image: url('/images/7.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0 !important;
+    line-height: 0 !important;
+}
+
+/* Graphics Designging */
+.graphic-design-icon {
+    display: inline-block !important;
+    width: 55px !important;
+    height: 55px !important;
+    background-image: url('/images/8.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0 !important;
+    line-height: 0 !important;
+}
+
 .tz-sidebar-widget .tz-rcw-item .item-img img {
 	width: 100%;
 	height: 100%;

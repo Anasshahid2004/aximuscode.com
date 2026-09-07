@@ -15,12 +15,12 @@
     },
     "elements": [
       {
-        "id": "3491ed6",
+        "id": "95336d1",
         "elType": "widget",
         "settings": {
           "sub_title": "{06} Testimonial",
-          "title": "The best reviews from clients",
-          "description": "Don’t just take our word for it — see what our clients think.",
+          "title": "Trusted by Clients, Built for Results",
+          "description": "Discover what our clients say about their experience working with Aximuscode.",
           "short_description": "The opportunity to work abroad is a popular prospect, one",
           "testimonial_lists": [
             {
@@ -29,7 +29,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-1.webp",
+                "url": "/images/p1-logo-15-15.png",
                 "id": 74,
                 "size": "",
                 "alt": "",
@@ -45,7 +45,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-2.webp",
+                "url": "/images/p1-logo-15-16.png",
                 "id": 132,
                 "size": "",
                 "alt": "",
@@ -62,7 +62,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-3.webp",
+                "url": "/images/p1-logo-15-17.png",
                 "id": 133,
                 "size": "",
                 "alt": "",
@@ -79,7 +79,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-4.webp",
+                "url": "/images/p1-logo-15-18.png",
                 "id": 131,
                 "size": "",
                 "alt": "",
@@ -96,7 +96,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-5.webp",
+                "url": "/images/p1-logo-15-19.png",
                 "id": 170,
                 "size": "",
                 "alt": "",
@@ -113,7 +113,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-6.webp",
+                "url": "/images/p1-logo-15-20.png",
                 "id": 172,
                 "size": "",
                 "alt": "",
@@ -130,7 +130,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-7.webp",
+                "url": "/images/p1-logo-15-21.png",
                 "id": 173,
                 "size": "",
                 "alt": "",
@@ -147,7 +147,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-8.webp",
+                "url": "/images/p1-logo-15-22.png",
                 "id": 174,
                 "size": "",
                 "alt": "",
@@ -164,7 +164,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-9.webp",
+                "url": "/images/p1-logo-15-23.png",
                 "id": 175,
                 "size": "",
                 "alt": "",
@@ -181,7 +181,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-10.webp",
+                "url": "/images/p1-logo-15-24.png",
                 "id": 176,
                 "size": "",
                 "alt": "",
@@ -198,7 +198,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-11.webp",
+                "url": "/images/p1-logo-15-25.png",
                 "id": 166,
                 "size": "",
                 "alt": "",
@@ -215,7 +215,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-1.webp",
+                "url": "/images/p1-logo-15-26.png",
                 "id": 74,
                 "size": "",
                 "alt": "",
@@ -232,7 +232,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-2.webp",
+                "url": "/images/p1-logo-15-27.png",
                 "id": 132,
                 "size": "",
                 "alt": "",
@@ -249,7 +249,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-3.webp",
+                "url": "/images/p1-logo-15-28.png",
                 "id": 133,
                 "size": "",
                 "alt": "",
@@ -266,7 +266,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-4.webp",
+                "url": "/images/p1-logo-15-15.png",
                 "id": 131,
                 "size": "",
                 "alt": "",
@@ -283,7 +283,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-5.webp",
+                "url": "/images/p1-logo-15-16.png",
                 "id": 170,
                 "size": "",
                 "alt": "",
@@ -300,7 +300,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-6.webp",
+                "url": "/images/p1-logo-15-17.png",
                 "id": 172,
                 "size": "",
                 "alt": "",
@@ -317,7 +317,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-7.webp",
+                "url": "/images/p1-logo-15-18.png",
                 "id": 173,
                 "size": "",
                 "alt": "",
@@ -334,7 +334,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-8.webp",
+                "url": "/images/p1-logo-15-19.png",
                 "id": 174,
                 "size": "",
                 "alt": "",
@@ -351,7 +351,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-9.webp",
+                "url": "/images/p1-logo-15-20.png",
                 "id": 175,
                 "size": "",
                 "alt": "",
@@ -368,7 +368,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-10.webp",
+                "url": "/images/p1-logo-15-21.png",
                 "id": 176,
                 "size": "",
                 "alt": "",
@@ -403,67 +403,7 @@
             "value": " fas fa-long-arrow-right",
             "library": "element-helper-icons"
           },
-          "gallery_heading": "Gallery Heading",
-          "_background_color_stop_tablet": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_color_stop_mobile": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_color_b_stop_tablet": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_color_b_stop_mobile": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_gradient_angle_tablet": {
-            "unit": "deg",
-            "size": "",
-            "sizes": []
-          },
-          "_background_gradient_angle_mobile": {
-            "unit": "deg",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_color_stop_tablet": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_color_stop_mobile": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_color_b_stop_tablet": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_color_b_stop_mobile": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_gradient_angle_tablet": {
-            "unit": "deg",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_gradient_angle_mobile": {
-            "unit": "deg",
-            "size": "",
-            "sizes": []
-          }
+          "gallery_heading": "Gallery Heading"
         },
         "elements": [],
         "widgetType": "tx_testimonial"

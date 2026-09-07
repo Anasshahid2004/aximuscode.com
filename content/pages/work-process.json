@@ -19,9 +19,9 @@
         "elType": "widget",
         "settings": {
           "top_sub_title": "{04} FunFacts",
-          "top_title_1": "\"A streamlined",
-          "top_title_2": "solution build to power business.\"",
-          "top_description": "We’re more than pixels and code — we’re coffee lovers, cat people, meme sharers, and design geeks.",
+          "top_title_1": "\"A Technology",
+          "top_title_2": "that turns ideas into business growth.\"",
+          "top_description": "We combine technology and creativity to build smart digital solutions that help businesses grow and succeed.",
           "sub_title": "{02} Our Services",
           "title": "We area offing the best solutions",
           "description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
@@ -47,13 +47,13 @@
               "count_title": "Customer satisfaction"
             },
             {
-              "count_number": 12,
+              "count_number": 4,
               "count_prefix": "+",
               "count_title": "Years of experience",
               "_id": "0ebb912"
             },
             {
-              "count_number": 22,
+              "count_number": 25,
               "count_prefix": "+",
               "count_title": "Projects completed",
               "_id": "036eda0"
@@ -79,14 +79,14 @@
               "title": "Seamless Collaboration",
               "description": "Transparent communication and feedback loops at every stage of the project.",
               "link_text": "Read More",
-              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">FinTech</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Alternative Home Financing</a></p>",
               "design_style": "style_2",
               "icon": {
                 "value": "flaticon flaticon-eye",
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "/services/digital-strategy-marketing/",
+                "url": "/services/buy-house-ez/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -123,7 +123,7 @@
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "/services/digital-strategy-marketing/",
+                "url": "/services/giftee/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -161,7 +161,7 @@
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "/services/digital-strategy-marketing/",
+                "url": "/services/thaleen/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -199,7 +199,7 @@
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "/services/digital-strategy-marketing/",
+                "url": "/services/govq",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -215,7 +215,7 @@
             {
               "_id": "c3837e9",
               "image_1": {
-                "url": "/images/p1-img-1.webp",
+                "url": "/images/p1-img-5.webp",
                 "id": 144,
                 "size": "",
                 "alt": "",
@@ -231,7 +231,7 @@
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "#",
+                "url": "/services/instakin/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -246,7 +246,7 @@
             {
               "_id": "9f43e20",
               "image_1": {
-                "url": "/images/p1-img-2.webp",
+                "url": "/images/p1-img-6.webp",
                 "id": 144,
                 "size": "",
                 "alt": "",
@@ -255,14 +255,14 @@
               "title": "Verve Mobile App",
               "description": "A cross-platform fitness app redesigned for clarity and daily engagement.",
               "link_text": "Read More",
-              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">App Design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\"> Website</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Sports</a></p>",
               "design_style": "style_2",
               "icon": {
                 "value": "flaticon flaticon-eye",
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "#",
+                "url": "/services/citizen-sports/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -277,7 +277,7 @@
             {
               "_id": "7347605",
               "image_1": {
-                "url": "/images/p1-img-3.webp",
+                "url": "/images/p1-img-7.webp",
                 "id": 144,
                 "size": "",
                 "alt": "",
@@ -293,7 +293,7 @@
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "#",
+                "url": "/services/sindh-police/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -308,7 +308,7 @@
             {
               "_id": "b663a8b",
               "image_1": {
-                "url": "/images/p1-img-4.webp",
+                "url": "/images/p1-img-8.webp",
                 "id": 144,
                 "size": "",
                 "alt": "",
@@ -317,14 +317,14 @@
               "title": "Solace Wellness Site",
               "description": "A calm, content-first marketing site for a mental health platform.",
               "link_text": "Read More",
-              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Web design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Social Networking</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">E-Commerce</a></p>",
               "design_style": "style_2",
               "icon": {
                 "value": "flaticon flaticon-eye",
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "#",
+                "url": "/services/joya/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -339,7 +339,7 @@
             {
               "_id": "db55443",
               "image_1": {
-                "url": "/images/p1-img-1.webp",
+                "url": "/images/p1-img-9.webp",
                 "id": 144,
                 "size": "",
                 "alt": "",
@@ -355,7 +355,7 @@
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "#",
+                "url": "/services/rental-insight-lab/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -370,7 +370,7 @@
             {
               "_id": "c607095",
               "image_1": {
-                "url": "/images/p1-img-2.webp",
+                "url": "/images/p1-img-10.webp",
                 "id": 144,
                 "size": "",
                 "alt": "",
@@ -379,14 +379,14 @@
               "title": "Aurora UI Kit",
               "description": "A reusable design system built to speed up product delivery.",
               "link_text": "Read More",
-              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">UI/UX</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Executive Forum</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Community</a></p>",
               "design_style": "style_2",
               "icon": {
                 "value": "flaticon flaticon-eye",
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "#",
+                "url": "/services/tcn-forum/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -401,7 +401,7 @@
             {
               "_id": "b8a0a34",
               "image_1": {
-                "url": "/images/p1-img-3.webp",
+                "url": "/images/p1-img-11.webp",
                 "id": 144,
                 "size": "",
                 "alt": "",
@@ -417,7 +417,7 @@
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "#",
+                "url": "/services/odentika/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -430,25 +430,521 @@
               "feature_lists": "The opportunity to work abroad is a popular prospect, one"
             },
             {
-              "_id": "13adead",
+              "_id": "b8a0a33",
               "image_1": {
-                "url": "/images/p1-img-4.webp",
+                "url": "/images/p1-img-12.webp",
                 "id": 144,
                 "size": "",
                 "alt": "",
                 "source": "library"
               },
-              "title": "Flux Motion Reel",
-              "description": "A motion-driven showreel and social kit for a media production studio.",
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
               "link_text": "Read More",
-              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Motion</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">SaaS</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Hospitality</a></p>",
               "design_style": "style_2",
               "icon": {
                 "value": "flaticon flaticon-eye",
                 "library": "element-helper-flaticon"
               },
               "link": {
-                "url": "#",
+                "url": "/services/wellmoe/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a35",
+              "image_1": {
+                "url": "/images/p1-img-13.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Digital Remittance, SaaS</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">FinTech</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/pleromi/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a39",
+              "image_1": {
+                "url": "/images/p1-img-14.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Branding</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/sms&sonspvtltd/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a31",
+              "image_1": {
+                "url": "/images/p1-img-15.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Perfumes</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Shopify</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/franscent/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a32",
+              "image_1": {
+                "url": "/images/p1-img-16.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Blockchain</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Trading</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/pipzero/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a38",
+              "image_1": {
+                "url": "/images/p1-img-17.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Branding</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/herfa-app/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a37",
+              "image_1": {
+                "url": "/images/p1-img-18.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Stock</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Trading</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/mutilip/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a00",
+              "image_1": {
+                "url": "/images/p1-img-19.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Branding</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/sequence-app/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a3e",
+              "image_1": {
+                "url": "/images/p1-img-20.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Branding</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/signal-app/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a3a",
+              "image_1": {
+                "url": "/images/p1-img-21.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Branding</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/magusai/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a3v",
+              "image_1": {
+                "url": "/images/p1-img-22.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Branding</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/electroysis/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a3z",
+              "image_1": {
+                "url": "/images/p1-img-23.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">App Design</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Public</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/credkin/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a3c",
+              "image_1": {
+                "url": "/images/p1-img-24.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Branding</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/safe/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a3d",
+              "image_1": {
+                "url": "/images/p1-img-25.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">eCommerce</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Online Store</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/high-class/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a3f",
+              "image_1": {
+                "url": "/images/p1-img-26.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Branding</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/roaa/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a3g",
+              "image_1": {
+                "url": "/images/p1-img-27.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Branding</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Portfolio</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/giftee/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "enable_tags": "yes",
+              "sub_title": "Service Sub Title",
+              "count": 1,
+              "title_2": "Title 2",
+              "title_3": "Title 3",
+              "feature_lists": "The opportunity to work abroad is a popular prospect, one"
+            },
+            {
+              "_id": "b8a0a3h",
+              "image_1": {
+                "url": "/images/p1-img-28.webp",
+                "id": 144,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "title": "Cedar & Co. Identity",
+              "description": "A warm, editorial brand identity for a boutique furniture maker.",
+              "link_text": "Read More",
+              "tags": "<p><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Marketplace</a><a class=\"link-elm nm-h-1\" href=\"#\" aria-label=\"name\">Discount</a></p>",
+              "design_style": "style_2",
+              "icon": {
+                "value": "flaticon flaticon-eye",
+                "library": "element-helper-flaticon"
+              },
+              "link": {
+                "url": "/services/basketo/",
                 "is_external": "",
                 "nofollow": "",
                 "custom_attributes": ""
@@ -469,12 +965,12 @@
             "alt": "",
             "source": "library"
           },
-          "author_info": "99+ Happy client",
+          "author_info": "99+ Happy Clients",
           "info_icon": {
             "value": "flaticon flaticon-time",
-            "library": "element-helper-flaticon"
+            "library": "element-helper-icons"
           },
-          "info_title": "7 day turnaround",
+          "info_title": "Quick Turnaround",
           "info_image_1": {
             "url": "/images/c1-bg-shape-2.webp",
             "id": 121,
@@ -514,13 +1010,6 @@
               "url": "/images/t1-author-3.webp"
             }
           ],
-          "top_title_image": {
-            "url": "/images/haha-emoji.webp",
-            "id": 157,
-            "size": "",
-            "alt": "",
-            "source": "library"
-          },
           "image_3": {
             "url": "/images/p1-bg-shape-1.webp",
             "id": 159,
@@ -667,7 +1156,7 @@
           ],
           "button_text": "Button Text",
           "author_info": "Default Text",
-          "info_title": "Info Title",
+          "info_title": "Quick Turnaround",
           "image_1": {
             "url": "/images/a1-bg-shape-bg-2.webp",
             "id": 115,
@@ -742,6 +1231,10 @@
             "unit": "deg",
             "size": "",
             "sizes": []
+          },
+          "info_icon": {
+            "value": "flaticon flaticon-time",
+            "library": "element-helper-icons"
           }
         },
         "elements": [],
@@ -764,183 +1257,6 @@
         "isLinked": true
       }
     },
-    "elements": [
-      {
-        "id": "60ca2b4",
-        "elType": "widget",
-        "settings": {
-          "sub_title": "{10} Latest Insights",
-          "title": "Here's what we've been up to",
-          "description": "Explore industry insights, expert tips, and creative inspiration from the Nimo team. Our blog is where we share knowledge, ideas, and what’s next in digital.",
-          "button_text": "More blog",
-          "post_by_label": "By",
-          "read_more_text": "Read More",
-          "excerpt_length": 20,
-          "selected_list_post": [
-            {
-              "_id": "58d6e8b",
-              "image": {
-                "url": "/images/b1-img-1.webp",
-                "id": 1184,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "title": "Nimo Wins \"Top creative Agency\" Award",
-              "post_id": "1181"
-            },
-            {
-              "image": {
-                "url": "/images/b1-img-2.webp",
-                "id": 1185,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
-              "post_id": "1179",
-              "_id": "e47e763"
-            },
-            {
-              "image": {
-                "url": "/images/b1-img-3.webp",
-                "id": 1183,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "title": "Nimo at the Digital future Summit 2025",
-              "post_id": "1177",
-              "_id": "6421be6"
-            }
-          ],
-          "selected_list_page": [],
-          "selected_list_product": [],
-          "selected_list_tf-header": [],
-          "selected_list_tf-footer": [],
-          "selected_list_services": [],
-          "selected_list_teams": [],
-          "image_1": {
-            "url": "/images/a1-bg-shape-bg-2.webp",
-            "id": 115,
-            "size": "",
-            "alt": "",
-            "source": "library"
-          },
-          "image_2": {
-            "url": "/images/a1-bg-shape-bg-2.webp",
-            "id": 115,
-            "size": "",
-            "alt": "",
-            "source": "library"
-          },
-          "button_link": {
-            "url": "/blog/",
-            "is_external": "",
-            "nofollow": "",
-            "custom_attributes": ""
-          },
-          "enable_button_icon": "yes",
-          "button_icon": {
-            "value": " fas fa-long-arrow-right",
-            "library": "element-helper-icons"
-          },
-          "show_post_by": "selected",
-          "category_meta": "yes",
-          "_background_color_stop_tablet": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_color_stop_mobile": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_color_b_stop_tablet": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_color_b_stop_mobile": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_gradient_angle_tablet": {
-            "unit": "deg",
-            "size": "",
-            "sizes": []
-          },
-          "_background_gradient_angle_mobile": {
-            "unit": "deg",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_color_stop_tablet": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_color_stop_mobile": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_color_b_stop_tablet": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_color_b_stop_mobile": {
-            "unit": "%",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_gradient_angle_tablet": {
-            "unit": "deg",
-            "size": "",
-            "sizes": []
-          },
-          "_background_hover_gradient_angle_mobile": {
-            "unit": "deg",
-            "size": "",
-            "sizes": []
-          },
-          "resolved_posts": [
-            {
-              "id": "1181",
-              "title": "Nimo Wins \"Top creative Agency\" Award",
-              "image": "/images/b1-img-1.webp",
-              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
-              "date": "2024-01-10",
-              "category": "Clock Fly Strategy",
-              "slug": "nimo-wins-top-creative-agency-award"
-            },
-            {
-              "id": "1179",
-              "title": "Nimo Launches 10+ Wordpress Themes On themeForest",
-              "image": "/images/b1-img-2.webp",
-              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
-              "date": "2024-01-10",
-              "category": "Email Marketing",
-              "slug": "nimo-launches-10-wordpress-themes-on-themeforest"
-            },
-            {
-              "id": "1177",
-              "title": "Nimo at the Digital future Summit 2025",
-              "image": "/images/b1-img-3.webp",
-              "excerpt": "Aliquam metus nibh consectetuer montes nascetur quisque lobortis a aliquet diam. Egestas dapibus hen drerit nascetur etiam sociosqu. Himenae...",
-              "date": "2024-01-10",
-              "category": "Clock Fly Strategy",
-              "slug": "nimo-at-the-digital-future-summit-2025"
-            }
-          ]
-        },
-        "elements": [],
-        "widgetType": "tx_post_grid"
-      }
-    ],
     "isInner": false
   }
 ]

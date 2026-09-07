@@ -23,8 +23,8 @@
             "library": "element-helper-flaticon"
           },
           "sub_title": "06. Pricing",
-          "title": "Nimo Digital marketing agency pricing",
-          "description": "At <b>Nimo Digital Agency.</b> we don't just build website - we create digital experiences that inspire, engage, and covert",
+          "title": "Aximuscode digital & technology solutions pricing",
+          "description": "At <b>Aximuscode</b>, we build powerful digital products, websites, software, and technology solutions that help businesses grow, automate, and scale.",
           "image_1": {
             "url": "/images/h2-bg-noise-1.gif",
             "id": 1205,
@@ -41,18 +41,18 @@
           },
           "pricing_text_1": "Monthly",
           "pricing_text_2": "Yearly",
-          "pricing_discounts": "Save 25%",
+          "pricing_discounts": "Save 17%",
           "pricing_boxs": [
             {
               "_id": "23d5756",
-              "package_name": "Basic",
-              "price": "10",
-              "price_year": "99",
+              "package_name": "Starter",
+              "price": "299",
+              "price_year": "2990",
               "price_period": "/month",
               "price_period_year": "/year",
-              "price_short_description": "Perfect for startup and small business online presence.",
+              "price_short_description": "Perfect for startups and small businesses looking to establish a strong digital presence.",
               "feature_heading": "What you Get",
-              "pricing_description": "8–10 posts per month (static + reels/stories)\nCaption writing & hashtag strategy\n1 Facebook or Instagram ad campaign\nAd copy, creative, and audience targeting\nEmail support & one strategy call per month\n8–10 posts per month (static + reels/stories)\nOption to pause or upgrade anytime",
+              "pricing_description": "Professional business website development\nResponsive mobile-first design\nUp to 5 website pages\nBasic UI/UX design\nContact forms & business integrations\nBasic SEO setup\nWebsite deployment & configuration\n30 days technical support",
               "button_text": "Get started",
               "button_link": {
                 "url": "/contact/",
@@ -62,14 +62,14 @@
               }
             },
             {
-              "package_name": "Premium",
-              "price": "100",
-              "price_year": "299",
+              "package_name": "Growth",
+              "price": "599",
+              "price_year": "5990",
               "price_period": "/month",
               "price_period_year": "/year",
-              "price_short_description": "Ideal for growing brands that need full-scale digital support.",
+              "price_short_description": "Ideal for growing businesses that need advanced websites, automation, and digital solutions.",
               "feature_heading": "What you Get",
-              "pricing_description": "8–10 posts per month (static + reels/stories)\nCaption writing & hashtag strategy\n1 Facebook or Instagram ad campaign\nAd copy, creative, and audience targeting\nEmail support & one strategy call per month\n8–10 posts per month (static + reels/stories)\nOption to pause or upgrade anytime",
+              "pricing_description": "Advanced website or web application\nUp to 12 website pages\nCustom UI/UX design\nWordPress or Shopify development\nThird-party API integrations\nAdvanced SEO & performance setup\nAnalytics & conversion tracking\nDatabase & form integrations\n60 days technical support\nMonthly maintenance & optimization",
               "button_text": "Get started",
               "button_link": {
                 "url": "/contact/",
@@ -80,14 +80,14 @@
               "_id": "221a0b4"
             },
             {
-              "package_name": "Advance",
-              "price": "550",
-              "price_year": "999",
+              "package_name": "Enterprise",
+              "price": "999",
+              "price_year": "9990",
               "price_period": "/month",
               "price_period_year": "/year",
-              "price_short_description": "For businesses seeking advanced strategy, full creative support.",
+              "price_short_description": "For businesses that need custom software, automation, integrations, and dedicated technology support.",
               "feature_heading": "What you Get",
-              "pricing_description": "8–10 posts per month (static + reels/stories)\nCaption writing & hashtag strategy\n1 Facebook or Instagram ad campaign\nAd copy, creative, and audience targeting\nEmail support & one strategy call per month\n8–10 posts per month (static + reels/stories)\nOption to pause or upgrade anytime",
+              "pricing_description": "Custom software & web application development\nAdvanced UI/UX & product design\nCustom admin dashboard\nAPI & third-party integrations\nDatabase architecture & development\nBusiness process automation\nCloud deployment & configuration\nSecurity & performance optimization\nDedicated development support\nPriority maintenance & technical support",
               "button_text": "Get started",
               "button_link": {
                 "url": "/contact/",
@@ -100,7 +100,7 @@
           ],
           "list_items": [
             {
-              "info_label": "Custom Reports",
+              "info_label": "Custom Software Development",
               "_id": "6c4ad62",
               "icon": {
                 "value": "flaticon flaticon-asterisk-1",
@@ -108,7 +108,7 @@
               }
             },
             {
-              "info_label": "Collaboration Tools",
+              "info_label": "Web & Mobile Solutions",
               "icon": {
                 "value": "flaticon flaticon-asterisk-1",
                 "library": "element-helper-flaticon"
@@ -116,7 +116,7 @@
               "_id": "38557a1"
             },
             {
-              "info_label": "Mobile Access",
+              "info_label": "UI/UX & Product Design",
               "icon": {
                 "value": "flaticon flaticon-asterisk-1",
                 "library": "element-helper-flaticon"
@@ -124,7 +124,7 @@
               "_id": "f4d7417"
             },
             {
-              "info_label": "Data Security",
+              "info_label": "API & System Integration",
               "icon": {
                 "value": "flaticon flaticon-asterisk-1",
                 "library": "element-helper-flaticon"
@@ -132,7 +132,7 @@
               "_id": "255051d"
             },
             {
-              "info_label": "It Solutions",
+              "info_label": "SEO & Digital Marketing",
               "icon": {
                 "value": "flaticon flaticon-asterisk-1",
                 "library": "element-helper-flaticon"
@@ -140,7 +140,7 @@
               "_id": "c37ca7b"
             },
             {
-              "info_label": "Technology",
+              "info_label": "Maintenance & Support",
               "icon": {
                 "value": "flaticon flaticon-asterisk-1",
                 "library": "element-helper-flaticon"
@@ -202,9 +202,9 @@
             "value": "flaticon flaticon-electricity",
             "library": "element-helper-flaticon"
           },
-          "sub_title": "Free Trial",
-          "title": "Start your 7-day free trial",
-          "description": "Experience hassle-free project management with a free trial—no commitment required.",
+          "sub_title": "Let's Build Together",
+          "title": "Have a project in mind? Let's turn your idea into reality.",
+          "description": "Tell us about your business, idea, or project. Our team will review your requirements and help you choose the right technology solution for your goals.",
           "image_1": {
             "url": "/images/h2-bg-noise-1.gif",
             "id": 1205,
@@ -219,31 +219,31 @@
             "alt": "",
             "source": "library"
           },
-          "newsletter_shortcode": "[contact-form-7 id=\"ba91d2d\" title=\"Newsletter H_2\"]",
-          "count_heading": "Count Heading",
+          "newsletter_shortcode": "[contact-form-7 id=\"ba91d2d\" title=\"Project Consultation\"]",
+          "count_heading": "Our Capabilities",
           "count_boxs": [
             {
               "_id": "e849c85",
-              "count_number": 390,
+              "count_number": 50,
               "count_prefix": "+",
-              "count_title": "Delivered projects"
+              "count_title": "Digital Solutions"
             },
             {
-              "count_number": 90,
+              "count_number": 95,
               "count_prefix": "%",
-              "count_title": "Success Rate",
+              "count_title": "Client Satisfaction",
               "_id": "8f95c6d"
             },
             {
-              "count_number": 15,
-              "count_prefix": "+",
-              "count_title": "Years of experience",
+              "count_number": 24,
+              "count_prefix": "/7",
+              "count_title": "Technical Support",
               "_id": "0f139bd"
             }
           ],
           "feature_lists": [
             {
-              "feature_text": "Free 7-day trial",
+              "feature_text": "Free project consultation",
               "_id": "03ce8f9",
               "feature_icon": {
                 "value": "flaticon flaticon-check",
@@ -251,7 +251,7 @@
               }
             },
             {
-              "feature_text": "No credit card required",
+              "feature_text": "Customized project strategy",
               "feature_icon": {
                 "value": "flaticon flaticon-check",
                 "library": "element-helper-flaticon"
@@ -259,7 +259,7 @@
               "_id": "9030b3d"
             },
             {
-              "feature_text": "Cancel anytime",
+              "feature_text": "Transparent project communication",
               "feature_icon": {
                 "value": "flaticon flaticon-check",
                 "library": "element-helper-flaticon"

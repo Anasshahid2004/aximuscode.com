@@ -215,10 +215,9 @@
         "elType": "widget",
         "settings": {
           "sub_title": "{01} About Us",
-          "title": "Elevating brands through digital design.",
-          "description": "At <b>nimo Digital</b> Agency, we don’t just build websites — we create digital experiences that inspire, engage, and convert.",
+          "title": "Digital solutions that drive growth",
+          "description": "At <b>Aximuscode</b> Agency, we don’t just build websites — we create digital experiences that inspire, engage, and convert.",
           "short_description": "We believe great design starts with great ideas. That’s why we work closely with our clients to understand their vision, goals, and audience.",
-          "video_text": "Watch Video",
           "feature_lists": [
             {
               "feature_text": "Feature Text",
@@ -229,7 +228,7 @@
             {
               "_id": "8f84270",
               "f_box_title": "Our Mission",
-              "f_box_text": "To help brands stand out online, tell their story, and drive\n                                        measurable success through digital creativity and smart strategy.",
+              "f_box_text": "To empower businesses through innovative technology solutions that\n                                        enhance efficiency, solve real-world challenges, and drive sustainable growth.",
               "list_icon": {
                 "value": "flaticon flaticon-mission-statement",
                 "library": "element-helper-flaticon"
@@ -238,7 +237,7 @@
             },
             {
               "f_box_title": "Our Vision",
-              "f_box_text": "To inspire innovation through design, technology, and storytelling — making every\n                                        digital interaction meaningful.",
+              "f_box_text": "To become a trusted global technology partner, delivering scalable\n                                        digital solutions that inspire innovation and create lasting business impact.",
               "list_icon": {
                 "value": "flaticon flaticon-eye",
                 "library": "element-helper-flaticon"
@@ -248,7 +247,7 @@
             },
             {
               "f_box_title": "Collaborate with Us",
-              "f_box_text": "Let’s build something extraordinary — from stunning\n                                        visuals to interactive modern creative innovative experiences.",
+              "f_box_text": "Have an idea or a business challenge? Let’s work together to\n                                        transform your vision into a smart, scalable, and impactful digital solution.",
               "list_icon": {
                 "value": "flaticon flaticon-people",
                 "library": "element-helper-flaticon"
@@ -276,7 +275,7 @@
           ],
           "rating_title": "Average Rating",
           "gallery_heading": "Gallery Heading",
-          "author_name": "Rapid Quad",
+          "author_name": "Anas Shahid",
           "author_designation": "Founder & CEO",
           "social_links": [
             {
@@ -378,14 +377,14 @@
           "contact_info_title": "Contact Info Title",
           "contact_shortcode": "[contact-form-7 id=\"123\" title=\"Contact form 1\"]",
           "sub_title": "{02} Our Services",
-          "title": "We area offing the best solutions",
-          "description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
+          "title": "Technology Solutions for Your Business",
+          "description": "We provide digital services to help your business launch, scale, and grow.",
           "txTab_lists": [
             {
               "_id": "18968ad",
               "tab_icon": {
-                "value": "flaticon flaticon-irregular",
-                "library": "element-helper-flaticon"
+                "value": "custom-software-icon",
+                "library": ""
               },
               "tab_image": {
                 "url": "/images/s1-img-1.webp",
@@ -394,9 +393,9 @@
                 "alt": "",
                 "source": "library"
               },
-              "tab_title": "1. Brand Identity & Graphics",
+              "tab_title": "1.  Custom Software Development",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We craft bold, memorable identities</b> that capture who you are and connect with the people you want to reach — from logo systems to full brand guidelines that keep every touchpoint consistent.",
+              "description_1": "<b>We build secure, scalable software solutions</b> — delivering custom applications, enterprise systems, and powerful integrations designed to streamline operations and support long-term business growth.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -404,7 +403,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "Logo & logotype design\nColor palette & typography systems\nBrand guideline documents\nSocial media brand kits\nPackaging & merchandise design",
+              "feature_lists_1": "Custom Web Applications\nEnterprise Software Solutions\nCRM & ERP Development\nAPI Development & Integration\nMaintenance & Technical Support",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -420,8 +419,8 @@
             {
               "is_active": "",
               "tab_icon": {
-                "value": "flaticon flaticon-path",
-                "library": "element-helper-flaticon"
+                "value": "custom-web-app-icon",
+                "library": ""
               },
               "tab_image": {
                 "url": "/images/s1-img-2.webp",
@@ -432,7 +431,7 @@
               },
               "tab_title": "2. Web & App Development",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We build fast, scalable products</b> engineered for real-world performance — from marketing sites to full web and mobile applications that grow with your business.",
+              "description_1": "<b>We create modern websites and mobile applications</b> — combining responsive design, seamless functionality, and high-performance development that grows with your business.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -440,7 +439,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "Custom website development\nWeb & mobile app development\nCMS & headless architecture\nThird-party API integration\nSpeed & performance optimization",
+              "feature_lists_1": "Responsive Website Development\nAndroid & iOS App Development\nE-commerce Solutions\nProgressive Web Apps (PWA)\nCMS Development & Integration",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -457,19 +456,19 @@
             {
               "is_active": "",
               "tab_icon": {
-                "value": "flaticon flaticon-path",
-                "library": "element-helper-flaticon"
+                "value": "cloud-solution-icon",
+                "library": ""
               },
               "tab_image": {
                 "url": "/images/s1-img-3.webp",
-                "id": 107,
+                "id": 108,
                 "size": "",
                 "alt": "",
                 "source": "library"
               },
-              "tab_title": "3. UI/UX Design",
+              "tab_title": "3. Cloud Solution",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We design intuitive, user-first interfaces</b> backed by real research — turning complex flows into experiences people actually enjoy using.",
+              "description_1": "<b>We deliver secure and scalable cloud solutions</b> — helping businesses migrate, manage, and optimize their infrastructure with reliability, flexibility, and maximum performance.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -477,7 +476,44 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "User research & journey mapping\nWireframing & prototyping\nInteraction design\nUsability testing\nDesign systems & component libraries",
+              "feature_lists_1": "Cloud Infrastructure Setup\nManaged Cloud Services\nData Migration & Integration\nSecurity & Compliance\nDisaster Recovery Planning",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "73e79d3"
+            },
+            {
+              "is_active": "",
+               "tab_icon": {
+                "value": "ui-ux-design-icon",
+                "library": ""
+              },
+              "tab_image": {
+                "url": "/images/s1-img-4.webp",
+                "id": 107,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "4. UI/UX Design",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We design intuitive digital experiences</b> — creating user-focused interfaces, interactive prototypes, and engaging designs that improve usability and customer satisfaction.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "User Research & Analysis\nWireframing & Prototyping\nMobile & Web UI Design\nInteractive User Experience\nDesign Systems & Style Guides",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -494,19 +530,19 @@
             {
               "is_active": "",
               "tab_icon": {
-                "value": "flaticon flaticon-path",
-                "library": "element-helper-flaticon"
+                "value": "digital-marketing-icon",
+                "library": ""
               },
               "tab_image": {
-                "url": "/images/s1-img-4.webp",
+                "url": "/images/s1-img-5.webp",
                 "id": 106,
                 "size": "",
                 "alt": "",
                 "source": "library"
               },
-              "tab_title": "4. Digital Strategy & Marketing",
+              "tab_title": "5. Digital Strategy & Marketing",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We turn insight into action</b> with data-driven strategies that grow your audience, sharpen your positioning, and drive measurable results.",
+              "description_1": "<b>We create data-driven marketing strategies</b> — increasing brand visibility, generating quality leads, and delivering measurable results across every digital channel.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -514,7 +550,7 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "Market & competitor analysis\nSEO & content strategy\nSocial media marketing\nPaid ad campaigns\nAnalytics & performance reporting",
+              "feature_lists_1": "Search Engine Optimization (SEO)\nSocial Media Marketing\nContent Marketing\nPPC Advertising\nPerformance Analytics & Reporting",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -526,24 +562,24 @@
                 "value": " fas fa-long-arrow-right",
                 "library": "element-helper-icons"
               },
-              "_id": "884e453"
+              "_id": "884e450"
             },
             {
               "is_active": "",
               "tab_icon": {
-                "value": "flaticon flaticon-path",
-                "library": "element-helper-flaticon"
+                "value": "ai-powered-advertising-icon",
+                "library": ""
               },
               "tab_image": {
-                "url": "/images/s1-img-5.webp",
+                "url": "/images/s1-img-6.webp",
                 "id": 105,
                 "size": "",
                 "alt": "",
                 "source": "library"
               },
-              "tab_title": "5. E-Commerce Solutions",
+              "tab_title": "6. AI- Powered Advertising",
               "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We build online stores that convert</b> — combining seamless shopping experiences with reliable checkout, inventory, and payment infrastructure.",
+              "description_1": "<b>We power smarter advertising with AI</b> — using intelligent automation, audience targeting, and predictive insights to maximize campaign performance and return on investment.",
               "feature_lists_image": {
                 "url": "/images/star-1.webp",
                 "id": 101,
@@ -551,7 +587,81 @@
                 "alt": "",
                 "source": "library"
               },
-              "feature_lists_1": "Storefront design & development\nPayment gateway integration\nInventory & order management\nConversion rate optimization\nMulti-channel selling",
+              "feature_lists_1": "AI Audience Targeting\nAutomated Campaign Optimization\nPredictive Analytics\nPersonalized Ad Creatives\nMulti-Platform Advertising",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "884e452"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "wordpress-development-icon",
+                "library": ""
+              },
+              "tab_image": {
+                "url": "/images/s1-img-7.webp",
+                "id": 105,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "7. WordPress Development",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We build fast and fully customized WordPress websites</b> — delivering secure, SEO-friendly, and easy-to-manage solutions tailored to your business goals.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "WordPress Theme Development\nCustom Plugin Development\nContent Management\nE-commerce Integration\nMaintenance & Support",
+              "button_text": "Read more",
+              "button_link": {
+                "url": "/contact/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "button_icon": {
+                "value": " fas fa-long-arrow-right",
+                "library": "element-helper-icons"
+              },
+              "_id": "884e451"
+            },
+            {
+              "is_active": "",
+              "tab_icon": {
+                "value": "graphic-design-icon",
+                "library": ""
+              },
+              "tab_image": {
+                "url": "/images/s1-img-9.webp",
+                "id": 105,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "tab_title": "8. Graphic Designing",
+              "tab_heading_1": "Tab Heading",
+              "description_1": "<b>We create impactful visual identities</b> — designing logos, marketing materials, and brand assets that communicate your message and leave a lasting impression.",
+              "feature_lists_image": {
+                "url": "/images/star-1.webp",
+                "id": 101,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "feature_lists_1": "Logo Design & Branding\nSocial Media Graphics\nMarketing Materials\nBusiness Cards & Brochures\nPrint & Digital Design",
               "button_text": "Read more",
               "button_link": {
                 "url": "/contact/",
@@ -564,80 +674,6 @@
                 "library": "element-helper-icons"
               },
               "_id": "faea8b0"
-            },
-             {
-              "is_active": "",
-              "tab_icon": {
-                "value": "flaticon flaticon-path",
-                "library": "element-helper-flaticon"
-              },
-              "tab_image": {
-                "url": "/images/s1-img-5.webp",
-                "id": 105,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "tab_title": "6. Cloud Solutions",
-              "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We build online stores that convert</b> — combining seamless shopping experiences with reliable checkout, inventory, and payment infrastructure.",
-              "feature_lists_image": {
-                "url": "/images/star-1.webp",
-                "id": 101,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "feature_lists_1": "Storefront design & development\nPayment gateway integration\nInventory & order management\nConversion rate optimization\nMulti-channel selling",
-              "button_text": "Read more",
-              "button_link": {
-                "url": "/contact/",
-                "is_external": "",
-                "nofollow": "",
-                "custom_attributes": ""
-              },
-              "button_icon": {
-                "value": " fas fa-long-arrow-right",
-                "library": "element-helper-icons"
-              },
-              "_id": "faea8b1"
-            },
-            {
-              "is_active": "",
-              "tab_icon": {
-                "value": "flaticon flaticon-path",
-                "library": "element-helper-flaticon"
-              },
-              "tab_image": {
-                "url": "/images/s1-img-5.webp",
-                "id": 105,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "tab_title": "7. Graphics Designing",
-              "tab_heading_1": "Tab Heading",
-              "description_1": "<b>We build online stores that convert</b> — combining seamless shopping experiences with reliable checkout, inventory, and payment infrastructure.",
-              "feature_lists_image": {
-                "url": "/images/star-1.webp",
-                "id": 101,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "feature_lists_1": "Storefront design & development\nPayment gateway integration\nInventory & order management\nConversion rate optimization\nMulti-channel selling",
-              "button_text": "Read more",
-              "button_link": {
-                "url": "/contact/",
-                "is_external": "",
-                "nofollow": "",
-                "custom_attributes": ""
-              },
-              "button_icon": {
-                "value": " fas fa-long-arrow-right",
-                "library": "element-helper-icons"
-              },
-              "_id": "faea8b1"
             }
           ],
           "button_info_text": "Button Info Text",
@@ -788,7 +824,7 @@
             "alt": "",
             "source": "library"
           },
-          "author_info": "99+ Happy client",
+          "author_info": "25+ Happy client",
           "info_icon": {
             "value": "flaticon flaticon-time",
             "library": "element-helper-flaticon"
@@ -854,9 +890,9 @@
         "elType": "widget",
         "settings": {
           "top_sub_title": "{04} FunFacts",
-          "top_title_1": "\"A streamlined",
-          "top_title_2": "solution build to power business.\"",
-          "top_description": "We’re more than pixels and code — we’re coffee lovers, cat people, meme sharers, and design geeks.",
+          "top_title_1": "\"A Technology",
+          "top_title_2": "that turns ideas into business growth.\"",
+          "top_description": "We combine technology and creativity to build smart digital solutions that help businesses grow and succeed.",
           "sub_title": "{02} Our Services",
           "title": "We area offing the best solutions",
           "description": "We offer a full range of digital services to help your brand stand out, connect, and grow.",
@@ -882,13 +918,13 @@
               "count_title": "Customer satisfaction"
             },
             {
-              "count_number": 12,
+              "count_number": 4,
               "count_prefix": "+",
               "count_title": "Years of experience",
               "_id": "0ebb912"
             },
             {
-              "count_number": 22,
+              "count_number": 25,
               "count_prefix": "+",
               "count_title": "Projects completed",
               "_id": "036eda0"
@@ -1102,7 +1138,7 @@
             }
           ],
           "top_title_image": {
-            "url": "/images/haha-emoji.webp",
+            "url": "",
             "id": 157,
             "size": "",
             "alt": "",
@@ -1143,17 +1179,17 @@
         "elType": "widget",
         "settings": {
           "sub_title": "{06} Testimonial",
-          "title": "The best reviews from clients",
-          "description": "Don’t just take our word for it — see what our clients think.",
+          "title": "Trusted by Clients, Built for Results",
+          "description": "Discover what our clients say about their experience working with Aximuscode.",
           "short_description": "The opportunity to work abroad is a popular prospect, one",
           "testimonial_lists": [
             {
               "_id": "edec0ac",
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"A polished digital solution delivered on time with professionalism. A team we would readily recommend\"",
+              "name": "Ahmed-AI-Bayati",
+              "designation": "CEO & Founder",
               "author_image": {
-                "url": "/images/t1-author-1.webp",
+                "url": "/images/alsunnah.webp",
                 "id": 74,
                 "size": "",
                 "alt": "",
@@ -1165,11 +1201,11 @@
               }
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"Highly professional services with strong creative and technical expertise.We are thankful for their consistent and expert professional support.\"",
+              "name": "Muhammad Almosilhi",
+              "designation": "CEO",
               "author_image": {
-                "url": "/images/t1-author-2.webp",
+                "url": "/images/arshfabric.webp",
                 "id": 132,
                 "size": "",
                 "alt": "",
@@ -1182,11 +1218,11 @@
               "_id": "0665e14"
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"A polished digital solution delivered on time with professionalism. A team we would readily recommend\"",
+              "name": "Ahmed-AI-Bayati",
+              "designation": "CEO & Founder",
               "author_image": {
-                "url": "/images/t1-author-3.webp",
+                "url": "/images/bitscollision.webp",
                 "id": 133,
                 "size": "",
                 "alt": "",
@@ -1199,11 +1235,11 @@
               "_id": "b06c02c"
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"Efficient workflow and high-quality design delivery. We are greatful for their smooth and highly professional service.\"",
+              "name": "Ahmed-AI-Bayati",
+              "designation": "CEO & Founder",
               "author_image": {
-                "url": "/images/t1-author-4.webp",
+                "url": "/images/burgerartist.webp",
                 "id": 131,
                 "size": "",
                 "alt": "",
@@ -1216,11 +1252,11 @@
               "_id": "a8d7bde"
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"Reliable digital partner with strong technical skills\"",
+              "name": "Ahmed-AI-Bayati",
+              "designation": "CEO & Founder",
               "author_image": {
-                "url": "/images/t1-author-5.webp",
+                "url": "/images/digitalbyans.webp",
                 "id": 170,
                 "size": "",
                 "alt": "",
@@ -1233,11 +1269,11 @@
               "_id": "37a2c09"
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"The team helped us translate our mission into a clear digital experience through strong design & development alignment. A reliable recommendation for digital solutions\"",
+              "name": "DIGP Imran Yaqoob",
+              "designation": "Sindh Police",
               "author_image": {
-                "url": "/images/t1-author-6.webp",
+                "url": "/images/dsurgical.webp",
                 "id": 172,
                 "size": "",
                 "alt": "",
@@ -1254,7 +1290,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-7.webp",
+                "url": "/images/etro.webp",
                 "id": 173,
                 "size": "",
                 "alt": "",
@@ -1271,7 +1307,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-8.webp",
+                "url": "/images/ibakes.webp",
                 "id": 174,
                 "size": "",
                 "alt": "",
@@ -1288,7 +1324,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-9.webp",
+                "url": "/images/ooyestore.webp",
                 "id": 175,
                 "size": "",
                 "alt": "",
@@ -1305,7 +1341,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-10.webp",
+                "url": "/images/scriptive.webp",
                 "id": 176,
                 "size": "",
                 "alt": "",
@@ -1322,7 +1358,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-11.webp",
+                "url": "/images/vaswani.webp",
                 "id": 166,
                 "size": "",
                 "alt": "",
@@ -1335,11 +1371,11 @@
               "_id": "5f98dc5"
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"Professional, detail-oriented, and consistent across software development and delivery\"",
+              "name": "Lubbi Ernjakovic",
+              "designation": "COO",
               "author_image": {
-                "url": "/images/t1-author-1.webp",
+                "url": "/images/vivz.webp",
                 "id": 74,
                 "size": "",
                 "alt": "",
@@ -1356,7 +1392,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-2.webp",
+                "url": "/images/khaasi.webp",
                 "id": 132,
                 "size": "",
                 "alt": "",
@@ -1369,11 +1405,11 @@
               "_id": "668d9d3"
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"Secure, user-centric, and well-architected digital solutions. The team demonstrated strong product maturity.\"",
+              "name": "Yasir Sherazi",
+              "designation": "CEO",
               "author_image": {
-                "url": "/images/t1-author-3.webp",
+                "url": "/images/mj.webp",
                 "id": 133,
                 "size": "",
                 "alt": "",
@@ -1386,12 +1422,29 @@
               "_id": "5ae74c7"
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "_id": "edec0tc",
+              "comment": "\"A polished digital solution delivered on time with professionalism. A team we would readily recommend\"",
+              "name": "Ahmed-AI-Bayati",
+              "designation": "CEO & Founder",
               "author_image": {
-                "url": "/images/t1-author-4.webp",
-                "id": 131,
+                "url": "/images/obskin.webp",
+                "id": 74,
+                "size": "",
+                "alt": "",
+                "source": "library"
+              },
+              "quote_icon": {
+                "value": "flaticon flaticon-double-quotes",
+                "library": "element-helper-flaticon"
+              }
+            },
+            {
+              "comment": "\"Highly professional services with strong creative and technical expertise.We are thankful for their consistent and expert professional support.\"",
+              "name": "Muhammad Almosilhi",
+              "designation": "CEO",
+              "author_image": {
+                "url": "/images/kanz.webp",
+                "id": 132,
                 "size": "",
                 "alt": "",
                 "source": "library"
@@ -1400,31 +1453,14 @@
                 "value": "flaticon flaticon-double-quotes",
                 "library": "element-helper-flaticon"
               },
-              "_id": "5700689"
+              "_id": "0665e54"
             },
             {
               "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-5.webp",
-                "id": 170,
-                "size": "",
-                "alt": "",
-                "source": "library"
-              },
-              "quote_icon": {
-                "value": "flaticon flaticon-double-quotes",
-                "library": "element-helper-flaticon"
-              },
-              "_id": "b5649e7"
-            },
-            {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
-              "author_image": {
-                "url": "/images/t1-author-6.webp",
+                "url": "/images/p1-logo-15-17.png",
                 "id": 172,
                 "size": "",
                 "alt": "",
@@ -1441,7 +1477,7 @@
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-7.webp",
+                "url": "/images/p1-logo-15-18.png",
                 "id": 173,
                 "size": "",
                 "alt": "",
@@ -1454,12 +1490,12 @@
               "_id": "3957fd4"
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"Reliable digital partner with strong technical skills\"",
+              "name": "Ahmed-AI-Bayati",
+              "designation": "CEO & Founder",
               "author_image": {
-                "url": "/images/t1-author-8.webp",
-                "id": 174,
+                "url": "/images/lazyboys.webp",
+                "id": 170,
                 "size": "",
                 "alt": "",
                 "source": "library"
@@ -1468,15 +1504,15 @@
                 "value": "flaticon flaticon-double-quotes",
                 "library": "element-helper-flaticon"
               },
-              "_id": "4200449"
+              "_id": "37a2c00"
             },
             {
-              "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
-              "name": "— James R.",
-              "designation": "Startup Founder",
+              "comment": "\"The team helped us translate our mission into a clear digital experience through strong design & development alignment. A reliable recommendation for digital solutions\"",
+              "name": "DIGP Imran Yaqoob",
+              "designation": "Sindh Police",
               "author_image": {
-                "url": "/images/t1-author-9.webp",
-                "id": 175,
+                "url": "/images/khanjeefries.webp",
+                "id": 172,
                 "size": "",
                 "alt": "",
                 "source": "library"
@@ -1485,14 +1521,14 @@
                 "value": "flaticon flaticon-double-quotes",
                 "library": "element-helper-flaticon"
               },
-              "_id": "14d3362"
+              "_id": "d434793"
             },
             {
               "comment": "\"From start to finish, the communication was seamless and the design blew us away. They really know how to bring a brand to life!\"",
               "name": "— James R.",
               "designation": "Startup Founder",
               "author_image": {
-                "url": "/images/t1-author-10.webp",
+                "url": "/images/p1-logo-15-21.png",
                 "id": 176,
                 "size": "",
                 "alt": "",
@@ -1527,7 +1563,8 @@
             "value": " fas fa-long-arrow-right",
             "library": "element-helper-icons"
           },
-          "gallery_heading": "Gallery Heading"
+          "gallery_heading": "Gallery Heading",
+          "enable_button": ""
         },
         "elements": [],
         "widgetType": "tx_testimonial"
@@ -1560,15 +1597,15 @@
           "top_title_2": "Heading Title",
           "top_description": "The opportunity to work abroad is a popular prospect, one",
           "sub_title": "{07} Steps",
-          "title": "3 easy steps to get started",
-          "description": "Our three-step method blends strategy and creativity while keeping you in the loop",
+          "title": "3 Easy Steps to Get Started",
+          "description": "Our simple process combines strategy, creativity, and technology to bring your ideas to life.",
           "count_boxs": [],
           "service_slide_boxs": [
             {
               "_id": "880f41b",
               "design_style": "style_3",
               "title": "<span>01.</span>Discovery & Strategy",
-              "description": "We start by understanding your goals, audience, and challenges. Together, we define the vision and roadmap.",
+              "description": "We understand your goals, challenges, and requirements to create a clear project roadmap.",
               "link_text": "Read More",
               "tags": "<p>Web Design</p>",
               "sub_title": "3-5 days",
@@ -1580,7 +1617,7 @@
             {
               "design_style": "style_3",
               "title": "<span>02.</span>Design & Prototype",
-              "description": "Our team crafts modern, user-friendly designs that reflect your brand and engage your users.",
+              "description": "We build modern, user-friendly solutions tailored to your brand and business needs.",
               "link_text": "Read More",
               "tags": "<p>Web Design</p>",
               "count": 2,
@@ -1593,7 +1630,7 @@
             {
               "design_style": "style_3",
               "title": "<span>03.</span>Launch & Support",
-              "description": "After launch, we stay by your side with updates, optimizations, and long-term support.",
+              "description": "We launch your project and provide ongoing support, updates, and optimization.",
               "link_text": "Read More",
               "tags": "<p>Web Design</p>",
               "count": 3,
@@ -1680,8 +1717,8 @@
                 "source": "library"
               },
               "sub_title": "{08} Team member",
-              "title": "Driven by talent & creative souls",
-              "description": "At nimo Digital Agency, we believe great work starts with great people. Our diverse team of creatives, strategists, and developers work together.",
+              "title": "Built by experts, driven by innovation",
+              "description": "At Aximuscode our talented team of developers, designers, and strategists work together to create innovative digital solutions that deliver real business impact.",
               "team_members": [
                 {
                   "_id": "24f359b",
@@ -1692,8 +1729,8 @@
                     "alt": "",
                     "source": "library"
                   },
-                  "name": "Ava Wilson",
-                  "designation": "Visual Designer",
+                  "name": "Anas Shahid",
+                  "designation": "Founder & CEO",
                   "link": {
                     "url": "/teams/alfred-noble/",
                     "is_external": "",
@@ -1758,8 +1795,8 @@
                     "alt": "",
                     "source": "library"
                   },
-                  "name": "Ava Wilson",
-                  "designation": "Visual Designer",
+                  "name": "Rayyan Khan",
+                  "designation": "HR Manager",
                   "link": {
                     "url": "/teams/alfred-noble/",
                     "is_external": "",
@@ -2026,8 +2063,8 @@
                     "alt": "",
                     "source": "library"
                   },
-                  "name": "Ava Wilson",
-                  "designation": "Visual Designer",
+                  "name": "Ahab Khan",
+                  "designation": "Co-Founder",
                   "link": {
                     "url": "/teams/alfred-noble/",
                     "is_external": "",
@@ -2118,249 +2155,250 @@
           }
         },
         "elements": [
+    {
+      "id": "c984413",
+      "elType": "widget",
+      "settings": {
+        "design_style": "style_2",
+        "contact_info_sub_title": "Response time: 1 hours",
+        "contact_info_title": "Tell details about your project",
+        "contact_shortcode": "[contact-form-7 id=\"f34c924\" title=\"Contact Form H_1\"]",
+        "sub_title": "{09} FAQs",
+        "title": "Learn more from FAQs",
+        "description": "The opportunity to work abroad is a popular prospect, one",
+        "txTab_lists": [
           {
-            "id": "c984413",
-            "elType": "widget",
-            "settings": {
-              "design_style": "style_2",
-              "contact_info_sub_title": "Response time: 1 hours",
-              "contact_info_title": "Tell details about your project",
-              "contact_shortcode": "[contact-form-7 id=\"f34c924\" title=\"Contact Form H_1\"]",
-              "sub_title": "{09} FAQs",
-              "title": "Learn more from FAQs",
-              "description": "The opportunity to work abroad is a popular prospect, one",
-              "txTab_lists": [
-                {
-                  "_id": "d83e80d",
-                  "tab_title": "General Ask",
-                  "tab_heading_1": "Tab Heading",
-                  "description_1": "Description",
-                  "feature_lists_1": "Feature",
-                  "button_text": "Button Text",
-                  "design_style": "style_2",
-                  "template": "248",
-                  "resolved_template": {
-                    "widgetType": "tx_faq",
-                    "settings": {
-                      "sub_title": "Sub Title",
-                      "title": "Heading Title",
-                      "title_2": "Know more about us by FAQ",
-                      "description": "The opportunity to work abroad is a popular prospect, one",
-                      "faq_lists": [
-                        {
-                          "title": "What services do you offer?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "_id": "9a6f99e",
-                          "is_active": "yes",
-                          "count": "01"
-                        },
-                        {
-                          "title": "How long does a website project take?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "02",
-                          "_id": "71f3685"
-                        },
-                        {
-                          "title": "Do you work with international clients?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "03",
-                          "_id": "83684e3"
-                        },
-                        {
-                          "title": "Can you redesign my existing website?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "04",
-                          "_id": "5434294"
-                        },
-                        {
-                          "title": "How do I get started?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "05",
-                          "_id": "e898567"
-                        },
-                        {
-                          "title": "Will my website be mobile-friendly?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "06",
-                          "_id": "d4f610d"
-                        },
-                        {
-                          "title": "Do you provide ongoing support after the launch?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "07",
-                          "_id": "5c8d9ac"
-                        }
-                      ],
-                      "button_text": "Button Text"
-                    }
+            "_id": "d83e80d",
+            "tab_title": "General Ask",
+            "tab_heading_1": "Tab Heading",
+            "description_1": "Description",
+            "feature_lists_1": "Feature",
+            "button_text": "Button Text",
+            "design_style": "style_2",
+            "template": "248",
+            "resolved_template": {
+              "widgetType": "tx_faq",
+              "settings": {
+                "sub_title": "Sub Title",
+                "title": "Heading Title",
+                "title_2": "Know more about us by FAQ",
+                "description": "The opportunity to work abroad is a popular prospect, one",
+                "faq_lists": [
+                  {
+                    "title": "What services does Aximuscode provide?",
+                    "content": "Aximuscode provides digital, AI, software, design, marketing, and business management solutions.",
+                    "_id": "9a6f99e",
+                    "is_active": "yes",
+                    "count": "01"
+                  },
+                  {
+                    "title": "Can Aximuscode handle complete digital projects?",
+                    "content": "Yes, we provide end-to-end solutions from planning and development to launch and support.",
+                    "is_active": "",
+                    "count": "02",
+                    "_id": "71f3685"
+                  },
+                  {
+                    "title": "Do you work with startups and established businesses?",
+                    "content": "Yes, we work with startups, small businesses, and established companies.",
+                    "is_active": "",
+                    "count": "03",
+                    "_id": "83684e3"
+                  },
+                  {
+                    "title": "Can you create customized solutions for my business?",
+                    "content": "Yes, our solutions are tailored to your specific goals, requirements, and industry.",
+                    "is_active": "",
+                    "count": "04",
+                    "_id": "5434294"
+                  },
+                  {
+                    "title": "Do you provide AI-powered solutions?",
+                    "content": "Yes, we offer AI solutions that help businesses automate processes and improve efficiency.",
+                    "is_active": "",
+                    "count": "05",
+                    "_id": "e898567"
+                  },
+                  {
+                    "title": "Do you provide ongoing support after project completion?",
+                    "content": "Yes, we offer maintenance, updates, optimization, and ongoing technical support.",
+                    "is_active": "",
+                    "count": "06",
+                    "_id": "d4f610d"
+                  },
+                  {
+                    "title": "How can I get started with Aximuscode?",
+                    "content": "Simply contact our team and share your requirements. We’ll guide you through the next steps.",
+                    "is_active": "",
+                    "count": "07",
+                    "_id": "5c8d9ac"
                   }
-                },
-                {
-                  "tab_title": "Job Career",
-                  "tab_heading_1": "Tab Heading",
-                  "description_1": "Description",
-                  "feature_lists_1": "Feature",
-                  "button_text": "Button Text",
-                  "design_style": "style_2",
-                  "is_active": "",
-                  "template": "248",
-                  "_id": "cfe8bf4",
-                  "resolved_template": {
-                    "widgetType": "tx_faq",
-                    "settings": {
-                      "sub_title": "Sub Title",
-                      "title": "Heading Title",
-                      "title_2": "Know more about us by FAQ",
-                      "description": "The opportunity to work abroad is a popular prospect, one",
-                      "faq_lists": [
-                        {
-                          "title": "What services do you offer?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "_id": "9a6f99e",
-                          "is_active": "yes",
-                          "count": "01"
-                        },
-                        {
-                          "title": "How long does a website project take?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "02",
-                          "_id": "71f3685"
-                        },
-                        {
-                          "title": "Do you work with international clients?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "03",
-                          "_id": "83684e3"
-                        },
-                        {
-                          "title": "Can you redesign my existing website?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "04",
-                          "_id": "5434294"
-                        },
-                        {
-                          "title": "How do I get started?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "05",
-                          "_id": "e898567"
-                        },
-                        {
-                          "title": "Will my website be mobile-friendly?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "06",
-                          "_id": "d4f610d"
-                        },
-                        {
-                          "title": "Do you provide ongoing support after the launch?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "07",
-                          "_id": "5c8d9ac"
-                        }
-                      ],
-                      "button_text": "Button Text"
-                    }
-                  }
-                },
-                {
-                  "tab_title": "Pricing & Plan",
-                  "tab_heading_1": "Tab Heading",
-                  "description_1": "Description",
-                  "feature_lists_1": "Feature",
-                  "button_text": "Button Text",
-                  "design_style": "style_2",
-                  "is_active": "",
-                  "template": "248",
-                  "_id": "5065b08",
-                  "resolved_template": {
-                    "widgetType": "tx_faq",
-                    "settings": {
-                      "sub_title": "Sub Title",
-                      "title": "Heading Title",
-                      "title_2": "Know more about us by FAQ",
-                      "description": "The opportunity to work abroad is a popular prospect, one",
-                      "faq_lists": [
-                        {
-                          "title": "What services do you offer?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "_id": "9a6f99e",
-                          "is_active": "yes",
-                          "count": "01"
-                        },
-                        {
-                          "title": "How long does a website project take?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "02",
-                          "_id": "71f3685"
-                        },
-                        {
-                          "title": "Do you work with international clients?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "03",
-                          "_id": "83684e3"
-                        },
-                        {
-                          "title": "Can you redesign my existing website?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "04",
-                          "_id": "5434294"
-                        },
-                        {
-                          "title": "How do I get started?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "05",
-                          "_id": "e898567"
-                        },
-                        {
-                          "title": "Will my website be mobile-friendly?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "06",
-                          "_id": "d4f610d"
-                        },
-                        {
-                          "title": "Do you provide ongoing support after the launch?",
-                          "content": "Simply <b>contact us</b> or send us a message. We’ll schedule a quick call to learn more about your goals and get started with a tailored plan.",
-                          "is_active": "",
-                          "count": "07",
-                          "_id": "5c8d9ac"
-                        }
-                      ],
-                      "button_text": "Button Text"
-                    }
-                  }
-                }
-              ],
-              "button_info_text": "Button Info Text",
-              "button_text": "Button Text",
-              "enable_description": "",
-              "image_1": {
-                "url": "/images/a1-bg-shape-1.webp",
-                "id": 126,
-                "size": "",
-                "alt": "",
-                "source": "library"
+                ],
+                "button_text": "Button Text"
               }
-            },
-            "elements": [],
-            "widgetType": "tx_tabs"
+            }
+          },
+          {
+            "tab_title": "Job Career",
+            "tab_heading_1": "Tab Heading",
+            "description_1": "Description",
+            "feature_lists_1": "Feature",
+            "button_text": "Button Text",
+            "design_style": "style_2",
+            "is_active": "",
+            "template": "248",
+            "_id": "cfe8bf4",
+            "resolved_template": {
+              "widgetType": "tx_faq",
+              "settings": {
+                "sub_title": "Sub Title",
+                "title": "Heading Title",
+                "title_2": "Know more about us by FAQ",
+                "description": "The opportunity to work abroad is a popular prospect, one",
+                "faq_lists": [
+                  {
+                    "title": "What career opportunities are available at Aximuscode?",
+                    "content": "We offer opportunities across development, design, AI, digital marketing, management, and other technology roles.",
+                    "_id": "9a6f99e",
+                    "is_active": "yes",
+                    "count": "01"
+                  },
+                  {
+                    "title": "How can I apply for a position at Aximuscode?",
+                    "content": "You can contact our team or submit your CV through our careers channel when positions are available.",
+                    "is_active": "",
+                    "count": "02",
+                    "_id": "71f3685"
+                  },
+                  {
+                    "title": "Does Aximuscode offer internships?",
+                    "content": "Yes, internship opportunities may be available for students and fresh professionals.",
+                    "is_active": "",
+                    "count": "03",
+                    "_id": "83684e3"
+                  },
+                  {
+                    "title": "Can fresh graduates apply for jobs?",
+                    "content": "Yes, we welcome talented fresh graduates for suitable entry-level opportunities.",
+                    "is_active": "",
+                    "count": "04",
+                    "_id": "5434294"
+                  },
+                  {
+                    "title": "What skills do you look for in candidates?",
+                    "content": "We value technical expertise, creativity, communication, problem-solving, and a willingness to learn.",
+                    "is_active": "",
+                    "count": "05",
+                    "_id": "e898567"
+                  },
+                  {
+                    "title": "Are remote or flexible positions available?",
+                    "content": "Depending on the role, we may offer remote, hybrid, or flexible working opportunities.",
+                    "is_active": "",
+                    "count": "06",
+                    "_id": "d4f610d"
+                  },
+                  {
+                    "title": "Can I submit my CV for future opportunities?",
+                    "content": "Yes, you can share your CV with us so our team can consider you for suitable future openings.",
+                    "is_active": "",
+                    "count": "07",
+                    "_id": "5c8d9ac"
+                  }
+                ],
+                "button_text": "Button Text"
+              }
+            }
+          },
+          {
+            "tab_title": "Pricing & Plan",
+            "tab_heading_1": "Tab Heading",
+            "description_1": "Description",
+            "feature_lists_1": "Feature",
+            "button_text": "Button Text",
+            "design_style": "style_2",
+            "is_active": "",
+            "template": "248",
+            "_id": "5065b08",
+            "resolved_template": {
+              "widgetType": "tx_faq",
+              "settings": {
+                "sub_title": "Sub Title",
+                "title": "Heading Title",
+                "title_2": "Know more about us by FAQ",
+                "description": "The opportunity to work abroad is a popular prospect, one",
+                "faq_lists": [
+                  {
+                    "title": "How much do Aximuscode services cost?",
+                    "content": "Pricing depends on the service, project scope, complexity, and required features.",
+                    "_id": "9a6f99e",
+                    "is_active": "yes",
+                    "count": "01"
+                  },
+                  {
+                    "title": "Do you offer customized packages?",
+                    "content": "Yes, we create flexible packages based on your business needs and budget.",
+                    "is_active": "",
+                    "count": "02",
+                    "_id": "71f3685"
+                  },
+                  {
+                    "title": "Can I request a free consultation?",
+                    "content": "Yes, you can contact our team to discuss your requirements and receive initial guidance.",
+                    "is_active": "",
+                    "count": "03",
+                    "_id": "83684e3"
+                  },
+                  {
+                    "title": "Do you offer monthly service plans?",
+                    "content": "Yes, monthly plans can be available for selected digital, AI, marketing, and management services.",
+                    "is_active": "",
+                    "count": "04",
+                    "_id": "5434294"
+                  },
+                  {
+                    "title": "Can I upgrade my plan later?",
+                    "content": "Yes, your plan can be adjusted as your business needs and requirements grow.",
+                    "is_active": "",
+                    "count": "05",
+                    "_id": "e898567"
+                  },
+                  {
+                    "title": "Do you provide project-based pricing?",
+                    "content": "Yes, we offer project-based pricing for specific development, design, AI, and digital projects.",
+                    "is_active": "",
+                    "count": "06",
+                    "_id": "d4f610d"
+                  },
+                  {
+                    "title": "What is included in your service plans?",
+                    "content": "Each plan includes different services and deliverables based on the selected package and project requirements.",
+                    "is_active": "",
+                    "count": "07",
+                    "_id": "5c8d9ac"
+                  }
+                ],
+                "button_text": "Button Text"
+              }
+            }
           }
         ],
+        "button_info_text": "Button Info Text",
+        "button_text": "Button Text",
+        "enable_description": "",
+        "image_1": {
+          "url": "/images/a1-bg-shape-1.webp",
+          "id": 126,
+          "size": "",
+          "alt": "",
+          "source": "library"
+        }
+      },
+      "elements": [],
+      "widgetType": "tx_tabs"
+    }
+  ],
+
         "isInner": true
       }
     ],
